@@ -1,0 +1,986 @@
+{
+ "updated": "2026-11-22T06:52:13-05:00",
+ "window_note": "每日自动更新 · 保留近60天",
+ "items": [
+  {
+   "date": "2026-11-22",
+   "title": "A deep-learning-based classification of European air quality monitoring sites for model verification and data assimilation",
+   "authors": "Joly et al.",
+   "venue": "EGUsphere (preprint)",
+   "url": "https://doi.org/10.5194/egusphere-2026-5616",
+   "cat": "da",
+   "core": false,
+   "tags": [
+    "站点代表性",
+    "深度学习"
+   ],
+   "added": "2026-11-22"
+  },
+  {
+   "date": "2026-11-22",
+   "title": "VISIT-4type v1.0: Forest age structure, wood harvest and land-cover transitions in a dynamic global vegetation model",
+   "authors": "Dong et al.",
+   "venue": "EGUsphere (preprint)",
+   "url": "https://doi.org/10.5194/egusphere-2026-6664",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "DGVM",
+    "林龄"
+   ],
+   "added": "2026-11-22"
+  },
+  {
+   "date": "2026-11-22",
+   "title": "Interactive effects of temperature and water level on forest-floor and soil CO2, CH4, and N2O fluxes in drained boreal peatland under alternative harvesting",
+   "authors": "Ťupek et al.",
+   "venue": "Geoderma",
+   "url": "https://doi.org/10.1016/j.geoderma.2026.118142",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "泥炭地",
+    "温室气体通量"
+   ],
+   "added": "2026-11-22"
+  },
+  {
+   "date": "2026-11-21",
+   "title": "Greenhouse gas responses to coastal wetland land use change vary by ecosystem and conversion pathway",
+   "authors": "—",
+   "venue": "Nature Communications",
+   "url": "https://doi.org/10.1038/s41467-026-79685-1",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "滨海湿地",
+    "土地利用变化",
+    "温室气体通量"
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "title": "Plankton ecological complexity amplifies climate-driven weakening of the ocean biological pump",
+   "authors": "—",
+   "venue": "Nature Communications",
+   "url": "https://doi.org/10.1038/s41467-026-79817-7",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "海洋碳汇",
+    "生物泵"
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "title": "Long-term Eddy-covariance Measurements of Carbon, Water, and Energy Fluxes from a Young Pinus tabuliformis Plantation in Beijing, China",
+   "authors": "Li et al.",
+   "venue": "Scientific Data",
+   "url": "https://doi.org/10.1038/s41597-026-08860-2",
+   "cat": "obs",
+   "core": false,
+   "tags": [
+    "涡度相关",
+    "通量数据集"
+   ],
+   "added": "2026-11-22"
+  },
+  {
+   "date": "2026-11-21",
+   "title": "Characteristics of urban CO2 fluxes and the impacts of anthropogenic and green spaces on its source-sink relationship transformation in Shenzhen",
+   "authors": "Hu et al.",
+   "venue": "Atmospheric Environment",
+   "url": "https://doi.org/10.1016/j.atmosenv.2026.122513",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "城市CO2通量",
+    "深圳"
+   ],
+   "added": "2026-11-22"
+  },
+  {
+   "date": "2026-11-20",
+   "title": "Auditing the Global Carbon Budget: exploring the 2024–2025 vintage shift",
+   "authors": "Bennedsen et al.",
+   "venue": "ESSD (Discussions)",
+   "url": "https://doi.org/10.5194/essd-2026-905",
+   "cat": "carbon",
+   "core": true,
+   "tags": [
+    "GCB",
+    "版本差异",
+    "碳收支"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "title": "An intercomparison of modern GOSAT XCO2 data products",
+   "authors": "O'Dell et al.",
+   "venue": "EGUsphere (preprint)",
+   "url": "https://doi.org/10.5194/egusphere-2026-6982",
+   "cat": "obs",
+   "core": true,
+   "tags": [
+    "GOSAT",
+    "XCO2产品",
+    "相互比较"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "title": "Satellite retrieval of tropospheric NO2 under fire conditions",
+   "authors": "Wang et al.",
+   "venue": "Atmospheric Measurement Techniques",
+   "url": "https://doi.org/10.5194/amt-19-7649-2026",
+   "cat": "fire",
+   "core": false,
+   "tags": [
+    "火场NO2",
+    "卫星反演"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "title": "The Seoul Tracer Release Experiment: Investigating Regional Halocarbon Emissions from a Large Metropolitan Area",
+   "authors": "—",
+   "venue": "EGUsphere (preprint)",
+   "url": "https://doi.org/10.5194/egusphere-2026-5689",
+   "cat": "other",
+   "core": false,
+   "tags": [
+    "示踪剂释放",
+    "卤代烃排放",
+    "首尔"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "title": "Climate warming-induced agricultural nitrous oxide emissions can offset mitigation benefits of fertiliser reduction",
+   "authors": "—",
+   "venue": "Biogeosciences",
+   "url": "https://doi.org/10.5194/bg-23-8537-2026",
+   "cat": "other",
+   "core": false,
+   "tags": [
+    "N2O",
+    "农业排放",
+    "气候变暖"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "title": "Quantifying Nitrogen Oxide Point Sources With the EMIT Satellite Imaging Spectrometer",
+   "authors": "—",
+   "venue": "Geophysical Research Letters",
+   "url": "https://doi.org/10.1029/2026gl124107",
+   "cat": "other",
+   "core": false,
+   "tags": [
+    "NOx点源",
+    "EMIT",
+    "卫星成像光谱"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "title": "Physics-Constrained Source Inversion for Methane Leak Localization in Natural Gas Distribution Systems Using Mobile Observations",
+   "authors": "—",
+   "venue": "Energy",
+   "url": "https://doi.org/10.1016/j.energy.2026.143190",
+   "cat": "methane",
+   "core": false,
+   "tags": [
+    "甲烷泄漏",
+    "源反演",
+    "移动观测"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "title": "Comparative analysis of Ghana's greenhouse gas emission data across national and international databases",
+   "authors": "—",
+   "venue": "Scientific Reports",
+   "url": "https://doi.org/10.1038/s41598-026-81269-4",
+   "cat": "other",
+   "core": false,
+   "tags": [
+    "排放清单",
+    "加纳",
+    "数据库比较"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "title": "The ICOS Ecosystem Station Loobos: a pine forest site exposed to atmospheric pollution",
+   "authors": "van der Molen et al.",
+   "venue": "Earth System Science Data",
+   "url": "https://doi.org/10.5194/essd-18-8637-2026",
+   "cat": "obs",
+   "core": false,
+   "tags": [
+    "ICOS",
+    "生态站"
+   ],
+   "added": "2026-11-22"
+  },
+  {
+   "date": "2026-11-20",
+   "title": "Building a random forest machine learning model for annual Net Ecosystem Exchange estimation in agricultural fields using discontinuous atmospheric Eddy Covariance measurements",
+   "authors": "Pery et al.",
+   "venue": "Biogeosciences",
+   "url": "https://doi.org/10.5194/bg-23-8477-2026",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "NEE",
+    "机器学习"
+   ],
+   "added": "2026-11-22"
+  },
+  {
+   "date": "2026-11-20",
+   "title": "Integrating optical and microwave satellite observations improves aboveground biomass estimation across Arctic-Boreal Northwestern North America",
+   "authors": "Devine et al.",
+   "venue": "Environmental Research: Ecology",
+   "url": "https://doi.org/10.1088/2752-664x/aec4e3",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "地上生物量",
+    "北极-北方林"
+   ],
+   "added": "2026-11-22"
+  },
+  {
+   "date": "2026-11-19",
+   "title": "Annual high-resolution mapping reveals warming-driven carbon losses in Spanish forests",
+   "authors": "—",
+   "venue": "Ecological Applications",
+   "url": "https://doi.org/10.1002/eap.70375",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "森林碳损失",
+    "西班牙",
+    "高分辨率制图"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "title": "Wildfire Smoke Drives Enhanced Brown Carbon Absorption in an Urban Atmosphere",
+   "authors": "Pal et al.",
+   "venue": "JGR: Atmospheres",
+   "url": "https://doi.org/10.1029/2026jd047207",
+   "cat": "fire",
+   "core": false,
+   "tags": [
+    "野火烟雾",
+    "棕碳"
+   ],
+   "added": "2026-11-22"
+  },
+  {
+   "date": "2026-11-19",
+   "title": "Repeated Fire Increases Soil Pyrogenic Carbon Storage in Alaskan Tundra",
+   "authors": "Dillard et al.",
+   "venue": "Permafrost and Periglacial Processes",
+   "url": "https://doi.org/10.1002/ppp.70067",
+   "cat": "fire",
+   "core": false,
+   "tags": [
+    "苔原火",
+    "热解碳"
+   ],
+   "added": "2026-11-22"
+  },
+  {
+   "date": "2026-11-18",
+   "title": "Methane outburst driven by magma–sediment interactions at Fentale Volcano detected by satellite",
+   "authors": "Dualeh et al.",
+   "venue": "Nature Geoscience",
+   "url": "https://doi.org/10.1038/s41561-026-02137-4",
+   "cat": "methane",
+   "core": false,
+   "tags": [
+    "CH4",
+    "卫星探测",
+    "火山排放"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "title": "Single-blind controlled release testing of vehicle- and aircraft-based methane measurement systems at the TADI facility",
+   "authors": "McManemin et al.",
+   "venue": "Atmospheric Measurement Techniques",
+   "url": "https://doi.org/10.5194/amt-19-7585-2026",
+   "cat": "methane",
+   "core": false,
+   "tags": [
+    "CH4测量",
+    "可控释放试验"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "title": "Predicting and Explaining Spatial and Inter-Annual Variability in Inversion-Derived Maximum Light Use Efficiency",
+   "authors": "De et al.",
+   "venue": "ESS Open Archive (preprint)",
+   "url": "https://doi.org/10.22541/essoar.15012454/v1",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "反演参数",
+    "光能利用率",
+    "GPP"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "title": "Latent Space Data Assimilation of GLDAS Soil Moisture and Soil Temperature into E3SM Coupled Land-Atmosphere Simulations",
+   "authors": "Fang et al.",
+   "venue": "EGUsphere (preprint)",
+   "url": "https://doi.org/10.5194/egusphere-2026-5703",
+   "cat": "da",
+   "core": false,
+   "tags": [
+    "潜空间同化",
+    "E3SM"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "title": "Error bounds for the Kalman gain and analysis covariance of a modified-Cholesky ensemble Kalman filter with observation-space updates",
+   "authors": "Nino-Ruiz et al.",
+   "venue": "Journal of Computational and Applied Mathematics",
+   "url": "https://doi.org/10.1016/j.cam.2026.118340",
+   "cat": "da",
+   "core": false,
+   "tags": [
+    "EnKF",
+    "误差界"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "title": "Post-wildfire soil respiration in tundra is driven by plant community composition and soil moisture in the late growing season",
+   "authors": "Santos et al.",
+   "venue": "Environmental Research Letters",
+   "url": "https://doi.org/10.1088/1748-9326/aec310",
+   "cat": "fire",
+   "core": false,
+   "tags": [
+    "火后土壤呼吸",
+    "苔原"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "title": "Satellite-based assessment of combustion-related and photosynthetic influences on XCO2 variability across South Korea",
+   "authors": "—",
+   "venue": "Environmental Research Letters",
+   "url": "https://doi.org/10.1088/1748-9326/aec3c0",
+   "cat": "obs",
+   "core": true,
+   "tags": [
+    "XCO2",
+    "韩国",
+    "燃烧/光合归因"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "title": "Fire-season vapour pressure deficit as a spatial indicator of satellite-detected vegetation fire in subtropical China: predictive value, geographical confounding and transferability",
+   "authors": "—",
+   "venue": "Ecological Indicators",
+   "url": "https://doi.org/10.1016/j.ecolind.2026.115872",
+   "cat": "fire",
+   "core": false,
+   "tags": [
+    "VPD",
+    "卫星火点",
+    "华南亚热带"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "title": "Joint Inversion of Summertime Anthropogenic and Biogenic NOx and NMVOC Emissions over the Continental United States Using TEMPO and TROPOMI Observations",
+   "authors": "Hsu et al.",
+   "venue": "EGUsphere (preprint)",
+   "url": "https://doi.org/10.5194/egusphere-2026-6714",
+   "cat": "other",
+   "core": false,
+   "tags": [
+    "联合反演",
+    "TEMPO/TROPOMI",
+    "NOx/NMVOC"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "title": "Global consumption-based deforestation carbon emissions and regional hotspots: 2001–2020",
+   "authors": "Tang et al.",
+   "venue": "Earth System Science Data",
+   "url": "https://doi.org/10.5194/essd-18-8345-2026",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "毁林碳排放",
+    "消费端核算"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "title": "Global gridded air-sea oxygen flux inferred from a machine learning-based dissolved oxygen product",
+   "authors": "Jin et al.",
+   "venue": "Earth System Science Data",
+   "url": "https://doi.org/10.5194/essd-18-8407-2026",
+   "cat": "obs",
+   "core": false,
+   "tags": [
+    "海气O2通量",
+    "机器学习",
+    "数据集"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "title": "Long-range transported biomass burning aerosols from wildfires observed at Mount Zugspitze",
+   "authors": "Tang et al.",
+   "venue": "Atmospheric Environment: X",
+   "url": "https://doi.org/10.1016/j.aeaoa.2026.100536",
+   "cat": "fire",
+   "core": false,
+   "tags": [
+    "生物质燃烧气溶胶",
+    "远距离传输"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "title": "Global warming extends boreal fire seasons into uncharted territory",
+   "authors": "Ruiz et al.",
+   "venue": "Scientific Reports",
+   "url": "https://doi.org/10.1038/s41598-026-80387-3",
+   "cat": "fire",
+   "core": false,
+   "tags": [
+    "北方林火",
+    "火季延长"
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "title": "Quantifying methane emissions of the oil and gas sector in the Sultanate of Oman based on a helicopter-borne mass balance approach",
+   "authors": "Förster et al.",
+   "venue": "EGUsphere (preprint)",
+   "url": "https://doi.org/10.5194/egusphere-2026-5294",
+   "cat": "methane",
+   "core": false,
+   "tags": [
+    "油气CH4",
+    "质量平衡"
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "title": "Deep Learning-Based Separation and Quantification of Overlapping Methane Plumes from Satellite Observations",
+   "authors": "Zou et al.",
+   "venue": "IEEE Geoscience and Remote Sensing Letters",
+   "url": "https://doi.org/10.1109/lgrs.2026.3754045",
+   "cat": "methane",
+   "core": false,
+   "tags": [
+    "深度学习",
+    "CH4羽流"
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "title": "Targeted Spectral Threshold Tests for Reducing Cloud Omission in the GOSAT-2 CAI-2 Cloud Mask",
+   "authors": "Safabakhshpachehkenari et al.",
+   "venue": "EGUsphere (preprint)",
+   "url": "https://doi.org/10.5194/egusphere-2026-5309",
+   "cat": "obs",
+   "core": false,
+   "tags": [
+    "云检测",
+    "GOSAT-2"
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "title": "A climatological description of atmospheric CO2 concentrations",
+   "authors": "Bréon et al.",
+   "venue": "Atmospheric Chemistry and Physics",
+   "url": "https://doi.org/10.5194/acp-26-16247-2026",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "CO2气候态",
+    "大气浓度"
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "title": "Constraining the hydrogen soil sink and photochemical source: insights from atmospheric H2 inversions (2003–2023)",
+   "authors": "Stroo et al.",
+   "venue": "Atmospheric Chemistry and Physics",
+   "url": "https://doi.org/10.5194/acp-26-16261-2026",
+   "cat": "other",
+   "core": false,
+   "tags": [
+    "H2反演",
+    "土壤汇"
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "title": "Physics-constrained inverse neural estimation (PINE) of NOx emission spatial patterns from TROPOMI NO2 columns over the North China Plain",
+   "authors": "Wang et al.",
+   "venue": "Atmospheric Chemistry and Physics",
+   "url": "https://doi.org/10.5194/acp-26-16125-2026",
+   "cat": "other",
+   "core": false,
+   "tags": [
+    "NOx排放",
+    "TROPOMI",
+    "物理约束神经网络"
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "title": "Modelling N2O emissions in fertilized grasslands with machine learning: a multi-site LSTM approach",
+   "authors": "Payrosangari et al.",
+   "venue": "Biogeosciences",
+   "url": "https://doi.org/10.5194/bg-23-8341-2026",
+   "cat": "other",
+   "core": false,
+   "tags": [
+    "N2O排放",
+    "LSTM"
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "title": "Covariation Impacts of the Western Pacific and Indian Subtropical Highs on Biomass Burning in the Greater Mekong Subregion",
+   "authors": "Yang et al.",
+   "venue": "JGR: Atmospheres",
+   "url": "https://doi.org/10.1029/2026jd047014",
+   "cat": "fire",
+   "core": false,
+   "tags": [
+    "东南亚火",
+    "大湄公河",
+    "副热带高压"
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "title": "EUBURN: The southern Europe biomass burning programme",
+   "authors": "Denjean et al.",
+   "venue": "Journal of the European Meteorological Society",
+   "url": "https://doi.org/10.1016/j.jemets.2026.100055",
+   "cat": "fire",
+   "core": false,
+   "tags": [
+    "生物质燃烧",
+    "南欧",
+    "观测计划"
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "title": "Spatiotemporal Variability and Relative Forecasting of AIRS Satellite-Derived Upper-Tropospheric CO2 over Two Mega cities of Pakistan (2002–2026)",
+   "authors": "Zeb et al.",
+   "venue": "Journal of Atmospheric and Solar-Terrestrial Physics",
+   "url": "https://doi.org/10.1016/j.jastp.2026.107023",
+   "cat": "obs",
+   "core": false,
+   "tags": [
+    "AIRS",
+    "对流层上层CO2"
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "title": "Within-fire estimates of biomass loss across national forests of the US West Coast: inventory-informed inference with uncertainty",
+   "authors": "Shannon et al.",
+   "venue": "Environmental Research Letters",
+   "url": "https://doi.org/10.1088/1748-9326/aec282",
+   "cat": "fire",
+   "core": false,
+   "tags": [
+    "火灾生物量损失",
+    "不确定性"
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "title": "Urban CO2 Source Attribution in a Central European Hungarian City Using High-Precision Mole Fraction measurements",
+   "authors": "Baráth et al.",
+   "venue": "Atmospheric Environment",
+   "url": "https://doi.org/10.1016/j.atmosenv.2026.122493",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "城市CO2",
+    "源解析"
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "title": "Characterization of trace gas emissions from controlled laboratory burning of Canadian boreal forest fuels",
+   "authors": "Afroz et al.",
+   "venue": "Atmospheric Chemistry and Physics",
+   "url": "https://doi.org/10.5194/acp-26-16101-2026",
+   "cat": "fire",
+   "core": false,
+   "tags": [
+    "排放因子",
+    "生物质燃烧"
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "title": "Long-term greenhouse gas observation by GOSAT and GOSAT-2 and the history of instrumental characterization",
+   "authors": "Kajiura et al.",
+   "venue": "Proc. SPIE",
+   "url": "https://doi.org/10.1117/12.3117976",
+   "cat": "obs",
+   "core": false,
+   "tags": [
+    "GOSAT"
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "title": "CO2 and CH4 observation by the GOSAT series and preliminary analysis for TANSO-3 on GOSAT-GW",
+   "authors": "Someya et al.",
+   "venue": "Proc. SPIE",
+   "url": "https://doi.org/10.1117/12.3116811",
+   "cat": "obs",
+   "core": false,
+   "tags": [
+    "GOSAT-GW",
+    "XCO2"
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "title": "Sparse sensor placement for reducing forecast errors in ensemble Kalman filtering",
+   "authors": "Saito et al.",
+   "venue": "Quarterly Journal of the Royal Meteorological Society",
+   "url": "https://doi.org/10.1002/qj.70357",
+   "cat": "da",
+   "core": false,
+   "tags": [
+    "EnKF",
+    "观测网络设计"
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "title": "pypfda v1.0: An open-source, model-agnostic particle-filter engine for online sequential paleo data assimilation in Earth system models",
+   "authors": "Fallah et al.",
+   "venue": "EGUsphere (preprint)",
+   "url": "https://doi.org/10.5194/egusphere-2026-5746",
+   "cat": "da",
+   "core": false,
+   "tags": [
+    "粒子滤波",
+    "开源"
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "title": "The operational 3DEnVar data assimilation scheme for the Météo-France convective scale model AROME-France",
+   "authors": "Brousseau et al.",
+   "venue": "Natural Hazards and Earth System Sciences",
+   "url": "https://doi.org/10.5194/nhess-26-5769-2026",
+   "cat": "da",
+   "core": false,
+   "tags": [
+    "3DEnVar"
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "title": "Potential of point source imaging satellite instruments to infer diffuse methane emissions: a theoretical case study of the Near-Infrared Multispectral Camera (NIMCAM)",
+   "authors": "Schooling et al.",
+   "venue": "Atmospheric Measurement Techniques",
+   "url": "https://doi.org/10.5194/amt-19-7279-2026",
+   "cat": "methane",
+   "core": false,
+   "tags": [
+    "CH4",
+    "OSSE/理论研究"
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "title": "Using satellites to characterize urban methane emissions in support of emission mitigation",
+   "authors": "Lama et al.",
+   "venue": "ESS Open Archive (preprint)",
+   "url": "https://doi.org/10.22541/essoar.15012105/v1",
+   "cat": "methane",
+   "core": false,
+   "tags": [
+    "城市CH4",
+    "卫星"
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "title": "Atmospheric methane over Iran from TROPOMI observations: Variability, spatial clustering, and land cover associations",
+   "authors": "—",
+   "venue": "Atmospheric Environment",
+   "url": "https://doi.org/10.1016/j.atmosenv.2026.122453",
+   "cat": "methane",
+   "core": false,
+   "tags": [
+    "TROPOMI",
+    "CH4"
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "title": "Methane in the Asian Monsoon anticyclone and global UTLS behavior observed in ACE-FTS satellite data",
+   "authors": "Yi et al.",
+   "venue": "Atmospheric Chemistry and Physics",
+   "url": "https://doi.org/10.5194/acp-26-16013-2026",
+   "cat": "methane",
+   "core": false,
+   "tags": [
+    "UTLS",
+    "ACE-FTS"
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "title": "Atmospheric O₂ reveals a strengthening ocean carbon sink and a stagnant net land sink since 1990",
+   "authors": "Morgan et al.",
+   "venue": "Science",
+   "url": "https://doi.org/10.1126/science.aed9544",
+   "cat": "carbon",
+   "core": true,
+   "tags": [
+    "大气O2约束",
+    "海洋/陆地碳汇",
+    "1990至今"
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "title": "Oxygen tells the tale of Earth's carbon sinks",
+   "authors": "Séférian",
+   "venue": "Science (Perspective)",
+   "url": "https://doi.org/10.1126/science.aem7174",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "评述",
+    "碳汇"
+   ]
+  },
+  {
+   "date": "2026-11-11",
+   "title": "Satellite-informed forward estimation of anthropogenic CO2 emissions during inventory reporting lags",
+   "authors": "Wu et al.",
+   "venue": "Science of Remote Sensing",
+   "url": "https://doi.org/10.1016/j.srs.2026.100544",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "人为CO2排放",
+    "卫星"
+   ]
+  },
+  {
+   "date": "2026-11-11",
+   "title": "Quantifying the near-term response of the ocean CO2 sink to reduced atmospheric carbon concentrations",
+   "authors": "Fay et al.",
+   "venue": "Biogeosciences",
+   "url": "https://doi.org/10.5194/bg-23-8063-2026",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "海洋碳汇"
+   ]
+  },
+  {
+   "date": "2026-11-11",
+   "title": "Probabilities of detection of methane plumes by remote sensing and implications for inferred emissions distributions",
+   "authors": "Manninen et al.",
+   "venue": "Atmospheric Chemistry and Physics",
+   "url": "https://doi.org/10.5194/acp-26-15915-2026",
+   "cat": "methane",
+   "core": true,
+   "tags": [
+    "CH4羽流",
+    "排放分布"
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "title": "Regional land carbon shifts strengthen atmospheric carbon dioxide–land carbon flux coupling",
+   "authors": "Luo et al.",
+   "venue": "Nature Geoscience",
+   "url": "https://doi.org/10.1038/s41561-026-02136-5",
+   "cat": "carbon",
+   "core": true,
+   "tags": [
+    "陆地碳汇",
+    "CO2–通量耦合"
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "title": "Global Carbon Budget 2026",
+   "authors": "Friedlingstein et al.",
+   "venue": "ESSD (Discussions)",
+   "url": "https://doi.org/10.5194/essd-2026-895",
+   "cat": "carbon",
+   "core": true,
+   "tags": [
+    "GCB",
+    "大气反演集合",
+    "碳汇"
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "title": "Enhancing CO2 flux inversion accuracy in a coastal megacity: Impacts of land cover and topography in a regional carbon assimilation system",
+   "authors": "—",
+   "venue": "Environmental and Sustainability Indicators",
+   "url": "https://doi.org/10.1016/j.indic.2026.101497",
+   "cat": "carbon",
+   "core": true,
+   "tags": [
+    "区域CO2反演",
+    "碳同化系统",
+    "城市"
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "title": "Quantification of CO2 emissions from coal-fired power plants from daily to interannual scales using CO2–NO2 synergistic satellite observations",
+   "authors": "—",
+   "venue": "Atmospheric Pollution Research",
+   "url": "https://doi.org/10.1016/j.apr.2026.103255",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "点源",
+    "CO2–NO2协同"
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "title": "NOx emissions changes from 2019 to 2021 in Eastern China as estimated through variational inversions and TROPOMI satellite data",
+   "authors": "Abeed et al.",
+   "venue": "EGUsphere (preprint)",
+   "url": "https://doi.org/10.5194/egusphere-2026-6638",
+   "cat": "other",
+   "core": true,
+   "tags": [
+    "变分反演",
+    "TROPOMI",
+    "中国"
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "title": "Near-real-time inversion of SO2 emission via coupled three-dimensional variational assimilation and deep learning surrogate framework over China",
+   "authors": "—",
+   "venue": "Atmospheric Research",
+   "url": "https://doi.org/10.1016/j.atmosres.2026.109151",
+   "cat": "other",
+   "core": false,
+   "tags": [
+    "3DVar",
+    "深度学习代理模型"
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "title": "Improving PM2.5 forecasts in WRF-Chem over China through a deep learning-based emission source inversion method",
+   "authors": "—",
+   "venue": "Atmospheric Environment",
+   "url": "https://doi.org/10.1016/j.atmosenv.2026.122363",
+   "cat": "other",
+   "core": false,
+   "tags": [
+    "WRF-Chem",
+    "排放反演"
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "title": "CO emissions and NOx/CO ratios from the extreme 2025 Iberian wildfires: TROPOMI-based estimates and comparison with inventories",
+   "authors": "Álvaro-Díaz et al.",
+   "venue": "Atmospheric Chemistry and Physics",
+   "url": "https://doi.org/10.5194/acp-26-15735-2026",
+   "cat": "fire",
+   "core": true,
+   "tags": [
+    "火排放",
+    "CO",
+    "TROPOMI"
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "title": "Seven-year continuous measurement of CO2 and CH4 at Atlas Mohammed V atmospheric research station in Northwest Africa",
+   "authors": "—",
+   "venue": "Atmospheric Environment",
+   "url": "https://doi.org/10.1016/j.atmosenv.2026.122365",
+   "cat": "obs",
+   "core": false,
+   "tags": [
+    "地面站",
+    "CO2/CH4"
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "title": "Ensemble Covariance Propagation with Machine Learning Weather Prediction Models in a Realistic Data Assimilation System",
+   "authors": "—",
+   "venue": "arXiv physics.ao-ph",
+   "url": "https://arxiv.org/abs/2611.11918",
+   "cat": "da",
+   "core": false,
+   "tags": [
+    "集合协方差",
+    "ML天气模型"
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "title": "Analysis increments for model bias diagnosis and correction: Theoretical foundations",
+   "authors": "—",
+   "venue": "arXiv physics.ao-ph",
+   "url": "https://arxiv.org/abs/2611.11162",
+   "cat": "da",
+   "core": false,
+   "tags": [
+    "模式偏差",
+    "分析增量"
+   ]
+  },
+  {
+   "date": "2026-10-28",
+   "title": "Hyperlocal sensing and inverse modeling reveal community impacts of urban air pollutant emissions",
+   "authors": "Manchanda et al.",
+   "venue": "Science Advances",
+   "url": "https://doi.org/10.1126/sciadv.aeb7647",
+   "cat": "other",
+   "core": false,
+   "tags": [
+    "逆模拟",
+    "城市排放",
+    "低成本传感器"
+   ]
+  }
+ ]
+}

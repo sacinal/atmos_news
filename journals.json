@@ -1,0 +1,201 @@
+{
+ "note": "综合顶刊与领域重点刊均为本站编辑判断，不代表任何官方索引。",
+ "checked": "2026-11-22",
+ "journals": {
+  "science": {
+   "name": "Science",
+   "top": true,
+   "core": false
+  },
+  "science advances": {
+   "name": "Science Advances",
+   "top": true,
+   "core": false
+  },
+  "nature": {
+   "name": "Nature",
+   "top": true,
+   "core": false
+  },
+  "nature geoscience": {
+   "name": "Nature Geoscience",
+   "top": true,
+   "core": false
+  },
+  "nature climate change": {
+   "name": "Nature Climate Change",
+   "top": true,
+   "core": false
+  },
+  "nature communications": {
+   "name": "Nature Communications",
+   "top": true,
+   "core": false
+  },
+  "communications earth and environment": {
+   "name": "Communications Earth & Environment",
+   "top": true,
+   "core": false
+  },
+  "npj climate and atmospheric science": {
+   "name": "npj Climate and Atmospheric Science",
+   "top": true,
+   "core": false
+  },
+  "pnas": {
+   "name": "PNAS",
+   "top": true,
+   "core": false
+  },
+  "proceedings of the national academy of sciences": {
+   "name": "Proceedings of the National Academy of Sciences",
+   "top": true,
+   "core": false
+  },
+  "agu advances": {
+   "name": "AGU Advances",
+   "top": true,
+   "core": false
+  },
+  "national science review": {
+   "name": "National Science Review",
+   "top": true,
+   "core": false
+  },
+  "one earth": {
+   "name": "One Earth",
+   "top": true,
+   "core": false
+  },
+  "atmospheric chemistry and physics": {
+   "name": "Atmospheric Chemistry and Physics",
+   "top": false,
+   "core": true
+  },
+  "atmospheric measurement techniques": {
+   "name": "Atmospheric Measurement Techniques",
+   "top": false,
+   "core": true
+  },
+  "geoscientific model development": {
+   "name": "Geoscientific Model Development",
+   "top": false,
+   "core": true
+  },
+  "earth system science data": {
+   "name": "Earth System Science Data",
+   "top": false,
+   "core": true
+  },
+  "biogeosciences": {
+   "name": "Biogeosciences",
+   "top": false,
+   "core": true
+  },
+  "geophysical research letters": {
+   "name": "Geophysical Research Letters",
+   "top": false,
+   "core": true
+  },
+  "jgr atmospheres": {
+   "name": "JGR: Atmospheres",
+   "top": false,
+   "core": true
+  },
+  "journal of geophysical research atmospheres": {
+   "name": "Journal of Geophysical Research: Atmospheres",
+   "top": false,
+   "core": true
+  },
+  "jgr biogeosciences": {
+   "name": "JGR: Biogeosciences",
+   "top": false,
+   "core": true
+  },
+  "journal of geophysical research biogeosciences": {
+   "name": "Journal of Geophysical Research: Biogeosciences",
+   "top": false,
+   "core": true
+  },
+  "global biogeochemical cycles": {
+   "name": "Global Biogeochemical Cycles",
+   "top": false,
+   "core": true
+  },
+  "remote sensing of environment": {
+   "name": "Remote Sensing of Environment",
+   "top": false,
+   "core": true
+  },
+  "atmospheric environment": {
+   "name": "Atmospheric Environment",
+   "top": false,
+   "core": true
+  },
+  "atmospheric environment x": {
+   "name": "Atmospheric Environment: X",
+   "top": false,
+   "core": true
+  },
+  "environmental research letters": {
+   "name": "Environmental Research Letters",
+   "top": false,
+   "core": true
+  },
+  "environmental science and technology": {
+   "name": "Environmental Science & Technology",
+   "top": false,
+   "core": true
+  },
+  "quarterly journal of the royal meteorological society": {
+   "name": "Quarterly Journal of the Royal Meteorological Society",
+   "top": false,
+   "core": true
+  },
+  "tellus b": {
+   "name": "Tellus B",
+   "top": false,
+   "core": true
+  },
+  "carbon balance and management": {
+   "name": "Carbon Balance and Management",
+   "top": false,
+   "core": true
+  },
+  "global change biology": {
+   "name": "Global Change Biology",
+   "top": false,
+   "core": true
+  },
+  "agricultural and forest meteorology": {
+   "name": "Agricultural and Forest Meteorology",
+   "top": false,
+   "core": true
+  },
+  "science of remote sensing": {
+   "name": "Science of Remote Sensing",
+   "top": false,
+   "core": true
+  },
+  "elementa science of the anthropocene": {
+   "name": "Elementa: Science of the Anthropocene",
+   "top": false,
+   "core": true
+  },
+  "monthly weather review": {
+   "name": "Monthly Weather Review",
+   "top": false,
+   "core": true
+  },
+  "journal of advances in modeling earth systems": {
+   "name": "Journal of Advances in Modeling Earth Systems",
+   "top": false,
+   "core": true
+  },
+  "earth s future": {
+   "name": "Earth's Future",
+   "top": false,
+   "core": true
+  }
+ }
+}
