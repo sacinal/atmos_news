@@ -64,6 +64,7 @@
   .jb.esci{border:1px solid var(--line);color:var(--mute)}
   .jb.fc{border:1px solid var(--acc);color:var(--acc)}
   .jb.ty{background:var(--line);color:var(--mute)}
+  .jb.if{border:1px solid var(--star);color:var(--star)}
   @media (prefers-color-scheme:dark){.jb.wos{background:#3d78c4}}
   .star{color:var(--star);font-weight:700;margin-right:4px}
   .badge{font-size:11px;font-weight:700;color:#fff;background:var(--new);border-radius:4px;padding:0 5px;margin-right:5px;vertical-align:2px}
@@ -137,7 +138,8 @@
       </ul>
       <p><b>★ 核心</b>：与碳通量反演、同化系统直接相关的论文，Science / Nature 系里的碳汇新约束优先标注。</p>
       <p><b>期刊标签：</b><span class="jb wos">综合顶刊</span> 指 Science、Nature 及其子刊、PNAS、AGU Advances 等综合性高影响期刊；<span class="jb fc">领域重点刊</span> 是本站认定的大气化学 / 遥感 / 碳循环专业期刊（ACP、AMT、GMD、ESSD、BG、GRL、JGR、GBC、RSE、Atmos Environ、ERL、ES&amp;T 等），属于主观判断。没有标签不代表质量差。另有<span class="jb ty">讨论稿</span><span class="jb ty">预印本</span><span class="jb ty">会议</span>区分文献类型：EGUsphere / ESSD Discussions 是公开评审中的讨论稿，arXiv 和 ESS Open Archive 是未经同行评审的预印本。</p>
-      <p><b>使用小技巧：</b>点「摘要」可以直接展开摘要（来自 Crossref / OpenAlex，部分出版方没有公开摘要）；点标签可以按标签筛选；♡ 收藏保存在你自己的浏览器里；不相关的可以点「删除」移到回收站（同样只存在本浏览器，可恢复）；绿色「新」表示上次访问之后新收录的条目。</p>
+      <p><b>使用小技巧：</b>点「摘要」可以直接展开摘要（来自 Crossref / OpenAlex，部分出版方没有公开摘要）；点标签可以按标签筛选；♡ 收藏保存在你自己的浏览器里；不相关的可以点「删除」直接移到回收站（同样只存在本浏览器，可恢复）；绿色「新」表示上次访问之后新收录的条目。</p>
+      <p><b>IF：</b>期刊名后的 <span class="jb if">IF</span> 是 Clarivate JCR 影响因子，从出版社页面等公开来源整理，大多为 2024 或 2025 年版，鼠标悬停可看年份；没有显示的是未能确认或不被 JCR 收录。只作粗略参考，同领域内比较才有意义。</p>
       <p><b>局限：</b>类别、标签和 ★ 由程序和 Claude 根据标题判断，可能有误；日期为 DOI 注册日期，可能和正式出版日期不同。</p>
     </div>
   </header>
@@ -168,6 +170,7 @@
         <option value="date">按日期（新→旧）</option>
         <option value="core">核心优先</option>
         <option value="tier">按期刊级别</option>
+        <option value="if">按影响因子（高→低）</option>
         <option value="venue">按期刊名</option>
       </select>
     </div>
@@ -219,7 +222,8 @@
 <script>
 const CATS = {all:"全部", carbon:"CO2 / 碳汇反演", methane:"甲烷", fire:"火排放", other:"其他排放反演", obs:"卫星与观测", da:"同化方法"};
 const PAGE = 40;
-let JOUR = {};
+let JOUR = {}, IFS = {};
+function ifOf(it){ return IFS[jnorm(String(it.venue||"").replace(/\s*\((Perspective|preprint|Discussions)\)\s*$/i,""))] || null; }
 function jnorm(s){ return String(s||"").toLowerCase().replace(/&/g," and ").replace(/[^a-z0-9]+/g," ").trim(); }
 function jinfo(it){ return JOUR[jnorm(String(it.venue||"").replace(/\s*\((Perspective|preprint|Discussions)\)\s*$/i,""))] || null; }
 function vtype(v, url){
@@ -236,6 +240,8 @@ function jbadges(it){
   if(t!=="期刊") h+=`<span class="jb ty">${t}</span>`;
   if(j){ if(j.top) h+=`<span class="jb wos" title="综合性高影响期刊">综合顶刊</span>`;
          if(j.core) h+=`<span class="jb fc" title="本站认定的领域重点期刊">领域重点刊</span>`; }
+  const f=t==="期刊"?ifOf(it):null;
+  if(f) h+=`<span class="jb if" title="影响因子 JIF${f.year?" "+f.year:""}（Clarivate JCR，公开来源整理，仅供参考）">IF ${f.if.toFixed(1)}</span>`;
   return h;
 }
 const S = {days:7, cat:"all", core:false, fav:false, trash:false, onlyNew:false, q:"", sort:"date", src:"all", shown:PAGE};
@@ -358,6 +364,7 @@ function renderCats(pool){
 
 function sortItems(a){
   if(S.sort==="core") a.sort((x,y)=>(y.core?1:0)-(x.core?1:0) || y.date.localeCompare(x.date));
+  else if(S.sort==="if") a.sort((x,y)=>((ifOf(y)||{}).if||0)-((ifOf(x)||{}).if||0) || y.date.localeCompare(x.date));
   else if(S.sort==="tier") a.sort((x,y)=>tier(y)-tier(x) || y.date.localeCompare(x.date));
   else if(S.sort==="venue") a.sort((x,y)=>x.venue.localeCompare(y.venue) || y.date.localeCompare(x.date));
   else a.sort((x,y)=> y.date.localeCompare(x.date) || (y.core?1:0)-(x.core?1:0));
@@ -431,7 +438,7 @@ $("list").addEventListener("click",e=>{
   const f=e.target.closest("[data-fav]"), c=e.target.closest("[data-cite]"), t=e.target.closest("[data-tag]"), a=e.target.closest("[data-abs]");
   const d=e.target.closest("[data-del]"), r=e.target.closest("[data-restore]");
   if(a){ toggleAbs(a); return; }
-  if(d){ askDelete(d.dataset.del, d); return; }
+  if(d){ TRASH[d.dataset.del]=Date.now(); store.set("atm_trash",TRASH); toast("已移到回收站，可在「回收站」恢复"); rerender(false); return; }
   if(r){ delete TRASH[r.dataset.restore]; store.set("atm_trash",TRASH); toast("已恢复"); rerender(false); return; }
   if(f){ const u=f.dataset.fav; FAVS.has(u)?FAVS.delete(u):FAVS.add(u); store.set("atm_favs",[...FAVS]);
     const on=FAVS.has(u); f.setAttribute("aria-pressed",on); f.textContent=on?"♥ 已收藏":"♡ 收藏"; $("favN").textContent=FAVS.size?`(${FAVS.size})`:"";
@@ -501,9 +508,10 @@ if(OWN_HOST) $("rssLink").hidden=false; else $("mDl").hidden=true;
   if(m && repo){ $("fbLink").href=`https://github.com/${m[1]}/${repo}/issues`; $("fbLink").target="_blank"; $("fbLink").rel="noopener"; $("fbLink").hidden=false; } }
 Promise.all([
   fetch("data.json",{cache:"no-store"}).then(r=>{ if(!r.ok) throw new Error(r.status); return r.json(); }),
-  fetch("journals.json",{cache:"no-store"}).then(r=>r.ok?r.json():null).catch(()=>null)
-]).then(([d,jj])=>{
-  DATA=d; JOUR=(jj&&jj.journals)||{};
+  fetch("journals.json",{cache:"no-store"}).then(r=>r.ok?r.json():null).catch(()=>null),
+  fetch("if.json",{cache:"no-store"}).then(r=>r.ok?r.json():null).catch(()=>null)
+]).then(([d,jj,ff])=>{
+  DATA=d; JOUR=(jj&&jj.journals)||{}; IFS=(ff&&ff.journals)||{};
   const up=(d.updated||"").replace("T"," ").slice(0,16);
   const nNew = PREV ? d.items.filter(isNew).length : 0;
   $("sub").innerHTML = `最近更新 <b>${esc(up)}</b>（美东）· 共 <b>${d.items.length}</b> 篇 · ★核心 ${d.items.filter(i=>i.core).length} 篇` + (nNew?` · 上次访问后新增 <b>${nNew}</b> 篇`:"");

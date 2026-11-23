@@ -1,0 +1,689 @@
+{
+ "note": "Clarivate JCR 影响因子（JIF），由 Claude 于 2026-11-23 从出版社页面等公开来源整理，年份不一，仅供参考；空缺表示未能确认。",
+ "journals": {
+  "remote sensing": {
+   "name": "Remote Sensing",
+   "if": 4.1,
+   "year": "2024",
+   "src": "https://www.mdpi.com/journal/remotesensing/history"
+  },
+  "journal of geophysical research biogeosciences": {
+   "name": "Journal of Geophysical Research: Biogeosciences",
+   "if": 3.7,
+   "year": "2025",
+   "src": "https://www.agu.org/Publish-with-AGU/Publish/journal-statistics"
+  },
+  "ecological indicators": {
+   "name": "Ecological Indicators",
+   "if": 8.7,
+   "year": "",
+   "src": "https://www.sciencedirect.com/journal/ecological-indicators/about/insights"
+  },
+  "atmospheric environment x": {
+   "name": "Atmospheric Environment: X",
+   "if": 3.4,
+   "year": "",
+   "src": "https://www.sciencedirect.com/journal/atmospheric-environment-x/about/insights"
+  },
+  "carbon balance and management": {
+   "name": "Carbon Balance and Management",
+   "if": 3.9,
+   "year": "2023",
+   "src": "https://cbmjournal.biomedcentral.com/about"
+  },
+  "journal of plant ecology": {
+   "name": "Journal Of Plant Ecology",
+   "if": 4.5,
+   "year": "2025",
+   "src": "https://academic.oup.com/jpe"
+  },
+  "frontiers in plant science": {
+   "name": "Frontiers in Plant Science",
+   "if": 5.9,
+   "year": "",
+   "src": "https://www.frontiersin.org/journals/plant-science/about"
+  },
+  "frontiers in climate": {
+   "name": "Frontiers in Climate",
+   "if": 3.9,
+   "year": "",
+   "src": "https://www.frontiersin.org/journals/climate/about"
+  },
+  "earth systems and environment": {
+   "name": "Earth Systems and Environment",
+   "if": 5.0,
+   "year": "2025",
+   "src": "https://link.springer.com/journal/41748"
+  },
+  "science bulletin": {
+   "name": "Science Bulletin",
+   "if": 20.7,
+   "year": "",
+   "src": "https://www.sciencedirect.com/journal/science-bulletin/about/insights"
+  },
+  "jgr atmospheres": {
+   "name": "JGR: Atmospheres",
+   "if": 3.8,
+   "year": "2025",
+   "src": "https://www.agu.org/Publish-with-AGU/Publish/journal-statistics"
+  },
+  "engineering": {
+   "name": "Engineering",
+   "if": 12.2,
+   "year": "",
+   "src": "https://www.sciencedirect.com/journal/engineering/about/insights"
+  },
+  "ocean dynamics": {
+   "name": "Ocean Dynamics",
+   "if": 1.9,
+   "year": "2024",
+   "src": "https://link.springer.com/journal/10236"
+  },
+  "acta oceanologica sinica": {
+   "name": "Acta Oceanologica Sinica",
+   "if": 1.4,
+   "year": "2025",
+   "src": "https://link.springer.com/journal/13131"
+  },
+  "agricultural and forest meteorology": {
+   "name": "Agricultural and Forest Meteorology",
+   "if": 6.6,
+   "year": "2025",
+   "src": "https://www.bioxbio.com/journal/AGR-FOREST-METEOROL"
+  },
+  "atmospheric measurement techniques": {
+   "name": "Atmospheric Measurement Techniques",
+   "if": 3.7,
+   "year": "2025",
+   "src": "https://www.bioxbio.com/journal/ATMOS-MEAS-TECH"
+  },
+  "nature communications": {
+   "name": "Nature Communications",
+   "if": 18.1,
+   "year": "2025",
+   "src": "https://www.nature.com/ncomms/journal-impact"
+  },
+  "quarterly journal of the royal meteorological society": {
+   "name": "Quarterly Journal of the Royal Meteorological Society",
+   "if": 3.3,
+   "year": "2025",
+   "src": "https://www.bioxbio.com/journal/Q-J-ROY-METEOR-SOC"
+  },
+  "journal of geophysical research oceans": {
+   "name": "Journal of Geophysical Research: Oceans",
+   "if": 3.3,
+   "year": "2025",
+   "src": "https://www.agu.org/Publish-with-AGU/Publish/journal-statistics"
+  },
+  "ieee journal of selected topics in applied earth observations and remote sensing": {
+   "name": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+   "if": 6.3,
+   "year": "2025",
+   "src": "https://www.bioxbio.com/journal/IEEE-J-STARS"
+  },
+  "nature": {
+   "name": "Nature",
+   "if": 56.1,
+   "year": "2025",
+   "src": "https://www.nature.com/nature/journal-impact"
+  },
+  "environmental monitoring and assessment": {
+   "name": "Environmental Monitoring and Assessment",
+   "if": 3.6,
+   "year": "2025",
+   "src": "https://www.bioxbio.com/journal/ENVIRON-MONIT-ASSESS"
+  },
+  "sustainability": {
+   "name": "Sustainability",
+   "if": 4.1,
+   "year": "2025",
+   "src": "https://www.bioxbio.com/journal/SUSTAINABILITY-BASEL"
+  },
+  "water research": {
+   "name": "Water Research",
+   "if": 12.8,
+   "year": "2025",
+   "src": "https://www.sciencedirect.com/journal/water-research/about/insights"
+  },
+  "environmental research": {
+   "name": "Environmental Research",
+   "if": 8.2,
+   "year": "2025",
+   "src": "https://www.sciencedirect.com/journal/environmental-research/about/insights"
+  },
+  "forests": {
+   "name": "Forests",
+   "if": 3.1,
+   "year": "2025",
+   "src": "https://www.bioxbio.com/journal/FORESTS"
+  },
+  "advanced science": {
+   "name": "Advanced Science",
+   "if": 14.1,
+   "year": "2025",
+   "src": "https://en.wikipedia.org/wiki/Advanced_Science"
+  },
+  "giscience and remote sensing": {
+   "name": "GIScience & Remote Sensing",
+   "if": 6.8,
+   "year": "2025",
+   "src": "https://www.bioxbio.com/journal/GISCI-REMOTE-SENS"
+  },
+  "water air and soil pollution": {
+   "name": "Water, Air, & Soil Pollution",
+   "if": 3.5,
+   "year": "2025",
+   "src": "https://www.bioxbio.com/journal/WATER-AIR-SOIL-POLL"
+  },
+  "meteorological applications": {
+   "name": "Meteorological Applications",
+   "if": 3.1,
+   "year": "2025",
+   "src": "https://www.bioxbio.com/journal/METEOROL-APPL"
+  },
+  "journal of hydrometeorology": {
+   "name": "Journal of Hydrometeorology",
+   "if": 3.3,
+   "year": "2025",
+   "src": "https://www.bioxbio.com/journal/J-HYDROMETEOROL"
+  },
+  "city and environment interactions": {
+   "name": "City and Environment Interactions",
+   "if": 5.3,
+   "year": "2025",
+   "src": "https://www.sciencedirect.com/journal/city-and-environment-interactions/about/insights"
+  },
+  "applied optics": {
+   "name": "Applied Optics",
+   "if": 1.7,
+   "year": "2025",
+   "src": "https://www.bioxbio.com/journal/APPL-OPTICS"
+  },
+  "chinese geographical science": {
+   "name": "Chinese Geographical Science",
+   "if": 4.0,
+   "year": "2025",
+   "src": "https://www.bioxbio.com/journal/CHINESE-GEOGR-SCI"
+  },
+  "nature reviews earth and environment": {
+   "name": "Nature Reviews Earth & Environment",
+   "if": 74.1,
+   "year": "2025",
+   "src": "https://www.nature.com/natrevearthenviron/journal-impact"
+  },
+  "geoderma regional": {
+   "name": "Geoderma Regional",
+   "if": 3.9,
+   "year": "2025",
+   "src": "https://www.sciencedirect.com/journal/geoderma-regional/about/insights"
+  },
+  "aerosol science and engineering": {
+   "name": "Aerosol Science and Engineering",
+   "if": 2.3,
+   "year": "2025",
+   "src": "https://link.springer.com/journal/41810"
+  },
+  "fire ecology": {
+   "name": "Fire Ecology",
+   "if": 6.7,
+   "year": "2025",
+   "src": "https://www.bioxbio.com/journal/FIRE-ECOL"
+  },
+  "ecosphere": {
+   "name": "Ecosphere",
+   "if": 3.0,
+   "year": "2025",
+   "src": "https://www.bioxbio.com/journal/ECOSPHERE"
+  },
+  "journal of forestry research": {
+   "name": "Journal of Forestry Research",
+   "if": 4.6,
+   "year": "2024",
+   "src": "https://www.springer.com/journal/11676/updates"
+  },
+  "environmental science and technology": {
+   "name": "Environmental Science & Technology",
+   "if": 12.2,
+   "year": "2025",
+   "src": "https://manusights.com/blog/environmental-science-and-technology-impact-factor"
+  },
+  "global biogeochemical cycles": {
+   "name": "Global Biogeochemical Cycles",
+   "if": 5.4,
+   "year": "2023",
+   "src": "https://agu.org/Publish-with-AGU/Publish/Journal-statistics"
+  },
+  "science advances": {
+   "name": "Science Advances",
+   "if": 13.9,
+   "year": "2025",
+   "src": "https://manusights.com/blog/science-advances-impact-factor-2025"
+  },
+  "earth s future": {
+   "name": "Earth's Future",
+   "if": 7.3,
+   "year": "2023",
+   "src": "https://agu.org/Publish-with-AGU/Publish/Journal-statistics"
+  },
+  "journal of environmental management": {
+   "name": "Journal of Environmental Management",
+   "if": 9.2,
+   "year": "",
+   "src": "https://shop.elsevier.com/journals/journal-of-environmental-management/0301-4797"
+  },
+  "catena": {
+   "name": "CATENA",
+   "if": 6.6,
+   "year": "",
+   "src": "https://shop.elsevier.com/journals/catena/0341-8162"
+  },
+  "isprs journal of photogrammetry and remote sensing": {
+   "name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+   "if": 12.9,
+   "year": "",
+   "src": "https://shop.elsevier.com/journals/isprs-journal-of-photogrammetry-and-remote-sensing/0924-2716"
+  },
+  "environmental modelling and software": {
+   "name": "Environmental Modelling & Software",
+   "if": 5.2,
+   "year": "",
+   "src": "https://shop.elsevier.com/journals/environmental-modelling-and-software/1364-8152"
+  },
+  "agriculture ecosystems and environment": {
+   "name": "Agriculture, Ecosystems & Environment",
+   "if": 7.7,
+   "year": "",
+   "src": "https://shop.elsevier.com/journals/agriculture-ecosystems-and-environment/0167-8809"
+  },
+  "journal of marine science and engineering": {
+   "name": "Journal of Marine Science and Engineering",
+   "if": 3.2,
+   "year": "2025",
+   "src": "https://www.mdpi.com/journal/jmse/history"
+  },
+  "ecological processes": {
+   "name": "Ecological Processes",
+   "if": 3.9,
+   "year": "2024",
+   "src": "https://link.springer.com/journal/13717"
+  },
+  "limnology and oceanography letters": {
+   "name": "Limnology and Oceanography Letters",
+   "if": 7.8,
+   "year": "",
+   "src": "https://aslopubs.onlinelibrary.wiley.com/journal/23782242"
+  },
+  "optics express": {
+   "name": "Optics Express",
+   "if": 3.4,
+   "year": "2025",
+   "src": "https://opg.optica.org/oe/journal/oe/about.cfm"
+  },
+  "resources conservation and recycling": {
+   "name": "Resources, Conservation and Recycling",
+   "if": 10.4,
+   "year": "",
+   "src": "https://shop.elsevier.com/journals/resources-conservation-and-recycling/0921-3449"
+  },
+  "marine pollution bulletin": {
+   "name": "Marine Pollution Bulletin",
+   "if": 4.9,
+   "year": "",
+   "src": "https://shop.elsevier.com/journals/marine-pollution-bulletin/0025-326x"
+  },
+  "measurement": {
+   "name": "Measurement",
+   "if": 6.1,
+   "year": "",
+   "src": "https://shop.elsevier.com/journals/measurement/0263-2241"
+  },
+  "applied geochemistry": {
+   "name": "Applied Geochemistry",
+   "if": 3.5,
+   "year": "",
+   "src": "https://shop.elsevier.com/journals/applied-geochemistry/0883-2927"
+  },
+  "radio science": {
+   "name": "Radio Science",
+   "if": 1.6,
+   "year": "2023",
+   "src": "https://agu.org/Publish-with-AGU/Publish/Journal-statistics"
+  },
+  "vadose zone journal": {
+   "name": "Vadose Zone Journal",
+   "if": 3.5,
+   "year": "2025",
+   "src": "https://en.wikipedia.org/wiki/Vadose_Zone_Journal"
+  },
+  "journal of geophysical research atmospheres": {
+   "name": "Journal of Geophysical Research: Atmospheres",
+   "if": 3.8,
+   "year": "2025",
+   "src": "https://www.agu.org/Publish-with-AGU/Publish/journal-statistics"
+  },
+  "atmosphere": {
+   "name": "Atmosphere",
+   "if": 2.6,
+   "year": "2025",
+   "src": "https://www.mdpi.com/journal/atmosphere"
+  },
+  "communications earth and environment": {
+   "name": "Communications Earth & Environment",
+   "if": 9.3,
+   "year": "2025",
+   "src": "https://www.nature.com/commsenv/journal-impact"
+  },
+  "scientific data": {
+   "name": "Scientific Data",
+   "if": 7.2,
+   "year": "2025",
+   "src": "https://www.nature.com/sdata/journal-impact"
+  },
+  "frontiers in environmental science": {
+   "name": "Frontiers in Environmental Science",
+   "if": 4.4,
+   "year": "2025",
+   "src": "https://www.frontiersin.org/journals/environmental-science/about"
+  },
+  "sensors": {
+   "name": "Sensors",
+   "if": 4.0,
+   "year": "2025",
+   "src": "https://www.mdpi.com/journal/sensors/history"
+  },
+  "agu advances": {
+   "name": "AGU Advances",
+   "if": 7.4,
+   "year": "2025",
+   "src": "https://www.agu.org/Publish-with-AGU/Publish/journal-statistics"
+  },
+  "weather and forecasting": {
+   "name": "Weather and Forecasting",
+   "if": 3.1,
+   "year": "2024",
+   "src": "https://www.tropmet.res.in/lipadmin/libraryAdmin/assets/library_photo/Impact-factor-of-journals-as-on-07July2026.pdf"
+  },
+  "journal of meteorological research": {
+   "name": "Journal of Meteorological Research",
+   "if": 2.5,
+   "year": "2024",
+   "src": "https://www.tropmet.res.in/lipadmin/libraryAdmin/assets/library_photo/Impact-factor-of-journals-as-on-07July2026.pdf"
+  },
+  "advances in atmospheric sciences": {
+   "name": "Advances in Atmospheric Sciences",
+   "if": 5.0,
+   "year": "2025",
+   "src": "https://link.springer.com/journal/376"
+  },
+  "environmental and sustainability indicators": {
+   "name": "Environmental and Sustainability Indicators",
+   "if": 5.6,
+   "year": "2024",
+   "src": "https://www.tropmet.res.in/lipadmin/libraryAdmin/assets/library_photo/Impact-factor-of-journals-as-on-07July2026.pdf"
+  },
+  "applied sciences": {
+   "name": "Applied Sciences",
+   "if": 2.9,
+   "year": "2025",
+   "src": "https://www.mdpi.com/journal/applsci/history"
+  },
+  "frontiers in earth science": {
+   "name": "Frontiers in Earth Science",
+   "if": 2.3,
+   "year": "2025",
+   "src": "https://www.frontiersin.org/journals/earth-science/about"
+  },
+  "bulletin of the american meteorological society": {
+   "name": "Bulletin of the American Meteorological Society",
+   "if": 5.9,
+   "year": "2024",
+   "src": "https://www.tropmet.res.in/lipadmin/libraryAdmin/assets/library_photo/Impact-factor-of-journals-as-on-07July2026.pdf"
+  },
+  "land": {
+   "name": "Land",
+   "if": 3.5,
+   "year": "2025",
+   "src": "https://www.mdpi.com/journal/land/history"
+  },
+  "ocean modelling": {
+   "name": "Ocean Modelling",
+   "if": 2.9,
+   "year": "2024",
+   "src": "https://www.tropmet.res.in/lipadmin/libraryAdmin/assets/library_photo/Impact-factor-of-journals-as-on-07July2026.pdf"
+  },
+  "agronomy": {
+   "name": "Agronomy",
+   "if": 4.1,
+   "year": "2025",
+   "src": "https://www.mdpi.com/journal/agronomy/history"
+  },
+  "frontiers in remote sensing": {
+   "name": "Frontiers in Remote Sensing",
+   "if": 3.5,
+   "year": "2025",
+   "src": "https://www.frontiersin.org/journals/remote-sensing/about"
+  },
+  "computational geosciences": {
+   "name": "Computational Geosciences",
+   "if": 2.1,
+   "year": "2025",
+   "src": "https://link.springer.com/journal/10596"
+  },
+  "biogeosciences": {
+   "name": "Biogeosciences",
+   "if": 3.9,
+   "year": "2024",
+   "src": "https://www.tropmet.res.in/lipadmin/libraryAdmin/assets/library_photo/Impact-factor-of-journals-as-on-07July2026.pdf"
+  },
+  "scientific reports": {
+   "name": "Scientific Reports",
+   "if": 3.9,
+   "year": "2024",
+   "src": "https://www.tropmet.res.in/lipadmin/libraryAdmin/assets/library_photo/Impact-factor-of-journals-as-on-07July2026.pdf"
+  },
+  "atmospheric research": {
+   "name": "Atmospheric Research",
+   "if": 4.4,
+   "year": "2024",
+   "src": "https://www.tropmet.res.in/lipadmin/libraryAdmin/assets/library_photo/Impact-factor-of-journals-as-on-07July2026.pdf"
+  },
+  "geoscientific model development": {
+   "name": "Geoscientific Model Development",
+   "if": 4.9,
+   "year": "2024",
+   "src": "https://www.tropmet.res.in/lipadmin/libraryAdmin/assets/library_photo/Impact-factor-of-journals-as-on-07July2026.pdf"
+  },
+  "water resources research": {
+   "name": "Water Resources Research",
+   "if": 5.0,
+   "year": "2024",
+   "src": "https://www.tropmet.res.in/lipadmin/libraryAdmin/assets/library_photo/Impact-factor-of-journals-as-on-07July2026.pdf"
+  },
+  "monthly weather review": {
+   "name": "Monthly Weather Review",
+   "if": 3.0,
+   "year": "2024",
+   "src": "https://www.tropmet.res.in/lipadmin/libraryAdmin/assets/library_photo/Impact-factor-of-journals-as-on-07July2026.pdf"
+  },
+  "journal of hydrology": {
+   "name": "Journal of Hydrology",
+   "if": 6.3,
+   "year": "2024",
+   "src": "https://www.tropmet.res.in/lipadmin/libraryAdmin/assets/library_photo/Impact-factor-of-journals-as-on-07July2026.pdf"
+  },
+  "earth and space science": {
+   "name": "Earth and Space Science",
+   "if": 2.6,
+   "year": "2024",
+   "src": "https://www.tropmet.res.in/lipadmin/libraryAdmin/assets/library_photo/Impact-factor-of-journals-as-on-07July2026.pdf"
+  },
+  "hydrology and earth system sciences": {
+   "name": "Hydrology and Earth System Sciences",
+   "if": 5.8,
+   "year": "2024",
+   "src": "https://www.tropmet.res.in/lipadmin/libraryAdmin/assets/library_photo/Impact-factor-of-journals-as-on-07July2026.pdf"
+  },
+  "space weather": {
+   "name": "Space Weather",
+   "if": 7.4,
+   "year": "2024",
+   "src": "https://www.tropmet.res.in/lipadmin/libraryAdmin/assets/library_photo/Impact-factor-of-journals-as-on-07July2026.pdf"
+  },
+  "environment development and sustainability": {
+   "name": "Environment, Development and Sustainability",
+   "if": 4.2,
+   "year": "2024",
+   "src": "https://www.tropmet.res.in/lipadmin/libraryAdmin/assets/library_photo/Impact-factor-of-journals-as-on-07July2026.pdf"
+  },
+  "environmental research climate": {
+   "name": "Environmental Research: Climate",
+   "if": 5.4,
+   "year": "2024",
+   "src": "https://www.tropmet.res.in/lipadmin/libraryAdmin/assets/library_photo/Impact-factor-of-journals-as-on-07July2026.pdf"
+  },
+  "journal of hazardous materials": {
+   "name": "Journal of Hazardous Materials",
+   "if": 11.3,
+   "year": "2024",
+   "src": "https://www.tropmet.res.in/lipadmin/libraryAdmin/assets/library_photo/Impact-factor-of-journals-as-on-07July2026.pdf"
+  },
+  "ieee access": {
+   "name": "IEEE Access",
+   "if": 3.6,
+   "year": "2024",
+   "src": "https://www.tropmet.res.in/lipadmin/libraryAdmin/assets/library_photo/Impact-factor-of-journals-as-on-07July2026.pdf"
+  },
+  "integrated environmental assessment and management": {
+   "name": "Integrated Environmental Assessment and Management",
+   "if": 3.3,
+   "year": "2025",
+   "src": "https://www.setac.org/resource/setac-journals-continue-to-demonstrate-strong-impact.html"
+  },
+  "geophysical journal international": {
+   "name": "Geophysical Journal International",
+   "if": 2.8,
+   "year": "2025",
+   "src": "https://academic.oup.com/gji/pages/About"
+  },
+  "geophysical research letters": {
+   "name": "Geophysical Research Letters",
+   "if": 4.6,
+   "year": "2023",
+   "src": "https://www.agu.org/Publish-with-AGU/Publish/Journal-statistics"
+  },
+  "journal of advances in modeling earth systems": {
+   "name": "Journal of Advances in Modeling Earth Systems",
+   "if": 4.4,
+   "year": "2023",
+   "src": "https://www.agu.org/Publish-with-AGU/Publish/Journal-statistics"
+  },
+  "the cryosphere": {
+   "name": "The Cryosphere",
+   "if": 4.4,
+   "year": "2023",
+   "src": "https://publications.copernicus.org/services/journal_metrics.html"
+  },
+  "fire": {
+   "name": "Fire",
+   "if": 3.2,
+   "year": "2025",
+   "src": "https://www.mdpi.com/journal/fire"
+  },
+  "paleoceanography and paleoclimatology": {
+   "name": "Paleoceanography and Paleoclimatology",
+   "if": 3.2,
+   "year": "2023",
+   "src": "https://www.agu.org/Publish-with-AGU/Publish/Journal-statistics"
+  },
+  "atmospheric environment": {
+   "name": "Atmospheric Environment",
+   "if": 3.7,
+   "year": "2024",
+   "src": "https://www.tropmet.res.in/lipadmin/libraryAdmin/assets/library_photo/Impact-factor-of-journals-as-on-07July2026.pdf"
+  },
+  "earth system science data": {
+   "name": "Earth System Science Data",
+   "if": 11.2,
+   "year": "2023",
+   "src": "https://publications.copernicus.org/services/journal_metrics.html"
+  },
+  "ieee transactions on geoscience and remote sensing": {
+   "name": "IEEE Transactions on Geoscience and Remote Sensing",
+   "if": 8.6,
+   "year": "2024",
+   "src": "https://www.tropmet.res.in/lipadmin/libraryAdmin/assets/library_photo/Impact-factor-of-journals-as-on-07July2026.pdf"
+  },
+  "environmental research communications": {
+   "name": "Environmental Research Communications",
+   "if": 2.9,
+   "year": "2024",
+   "src": "https://www.tropmet.res.in/lipadmin/libraryAdmin/assets/library_photo/Impact-factor-of-journals-as-on-07July2026.pdf"
+  },
+  "nature geoscience": {
+   "name": "Nature Geoscience",
+   "if": 20.6,
+   "year": "2025",
+   "src": "https://www.nature.com/ngeo/journal-impact"
+  },
+  "journal of environmental sciences": {
+   "name": "Journal of Environmental Sciences",
+   "if": 6.3,
+   "year": "2024",
+   "src": "https://www.tropmet.res.in/lipadmin/libraryAdmin/assets/library_photo/Impact-factor-of-journals-as-on-07July2026.pdf"
+  },
+  "environmental pollution": {
+   "name": "Environmental Pollution",
+   "if": 7.3,
+   "year": "2024",
+   "src": "https://www.tropmet.res.in/lipadmin/libraryAdmin/assets/library_photo/Impact-factor-of-journals-as-on-07July2026.pdf"
+  },
+  "advances in space research": {
+   "name": "Advances in Space Research",
+   "if": 2.8,
+   "year": "2024",
+   "src": "https://www.tropmet.res.in/lipadmin/libraryAdmin/assets/library_photo/Impact-factor-of-journals-as-on-07July2026.pdf"
+  },
+  "nature climate change": {
+   "name": "Nature Climate Change",
+   "if": 26.9,
+   "year": "2025",
+   "src": "https://www.nature.com/nclimate/journal-impact"
+  },
+  "national science review": {
+   "name": "National Science Review",
+   "if": 18.1,
+   "year": "2025",
+   "src": "https://academic.oup.com/nsr"
+  },
+  "ocean science": {
+   "name": "Ocean Science",
+   "if": 4.1,
+   "year": "2023",
+   "src": "https://publications.copernicus.org/services/journal_metrics.html"
+  },
+  "water": {
+   "name": "Water",
+   "if": 3.0,
+   "year": "2024",
+   "src": "https://www.tropmet.res.in/lipadmin/libraryAdmin/assets/library_photo/Impact-factor-of-journals-as-on-07July2026.pdf"
+  },
+  "climate": {
+   "name": "Climate",
+   "if": 3.2,
+   "year": "2024",
+   "src": "https://www.tropmet.res.in/lipadmin/libraryAdmin/assets/library_photo/Impact-factor-of-journals-as-on-07July2026.pdf"
+  },
+  "forest ecology and management": {
+   "name": "Forest Ecology and Management",
+   "if": 3.7,
+   "year": "2024",
+   "src": "https://www.tropmet.res.in/lipadmin/libraryAdmin/assets/library_photo/Impact-factor-of-journals-as-on-07July2026.pdf"
+  },
+  "nature ecology and evolution": {
+   "name": "Nature Ecology & Evolution",
+   "if": 17.1,
+   "year": "2025",
+   "src": "https://www.nature.com/natecolevol/journal-impact"
+  }
+ }
+}
