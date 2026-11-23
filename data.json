@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T06:52:13-05:00",
+ "updated": "2026-11-23T02:46:30-05:00",
  "window_note": "每日自动更新 · 保留近一年",
  "items": [
   {
@@ -4151,6 +4151,80 @@
     "中国"
    ],
    "added": "2025-11-25"
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-23",
+   "title": "Reconciliation through Integration: A Source-Level Bayesian Framework for Developing Measurement-Integrated …",
+   "authors": "Raji et al.",
+   "venue": "Environmental Science & Technology",
+   "url": "https://doi.org/10.1021/acs.est.6c14604",
+   "cat": "methane",
+   "core": true,
+   "tags": [
+    "贝叶斯框架",
+    "测量融合清单",
+    "源级排放"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-23",
+   "title": "Radiative Constraints on VIIRS Nighttime Detectability of Lower-Tropospheric Methane",
+   "authors": "Elum et al.",
+   "venue": "Atmospheric Measurement Techniques",
+   "url": "https://doi.org/10.5194/amt-19-7667-2026",
+   "cat": "methane",
+   "core": false,
+   "tags": [
+    "VIIRS夜间",
+    "甲烷可探测性",
+    "辐射约束"
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "added": "2026-11-23",
+   "title": "Spatiotemporal Dynamics and Environmental Drivers of CO2 Fluxes in Typical Qinghai–Tibet Alpine Ecosystems",
+   "authors": "Wang et al.",
+   "venue": "EGUsphere (preprint)",
+   "url": "https://doi.org/10.5194/egusphere-2026-6536",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "青藏高原",
+    "生态系统CO2通量",
+    "环境驱动"
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "added": "2026-11-23",
+   "title": "The role of satellite data for climate science, services and policy",
+   "authors": "Schulz",
+   "venue": "Journal of the European Meteorological Society",
+   "url": "https://doi.org/10.1016/j.jemets.2026.100056",
+   "cat": "obs",
+   "core": false,
+   "tags": [
+    "卫星观测",
+    "气候服务"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-23",
+   "title": "Reducing uncertainty in sea-salt aerosol emissions by constraining their wind-speed dependence",
+   "authors": "Wang et al.",
+   "venue": "Atmospheric Environment",
+   "url": "https://doi.org/10.1016/j.atmosenv.2026.122512",
+   "cat": "other",
+   "core": false,
+   "tags": [
+    "海盐气溶胶",
+    "排放约束",
+    "风速依赖"
+   ]
   }
  ]
 }
