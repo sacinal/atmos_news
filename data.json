@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:49:29-05:00",
+ "updated": "2026-11-23T06:41:53-05:00",
  "window_note": "每日自动更新 · 保留近一年",
  "items": [
   {
@@ -40619,6 +40619,140 @@
    "tags": [
     "甲烷排放",
     "生态系统模型"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-23",
+   "title": "Contrasting Fire‐Driven Erosion Processes Mobilise Distinct Organic Carbon Pools in Forest Landscapes",
+   "authors": "Jayasekara et al.",
+   "venue": "Global Change Biology",
+   "url": "https://doi.org/10.1111/gcb.71206",
+   "cat": "fire",
+   "core": false,
+   "tags": [
+    "野火",
+    "侵蚀碳迁移",
+    "森林"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-23",
+   "title": "Beyond deforestation: quantifying living-biomass carbon loss from mangrove canopy degradation through multi-source downscaling",
+   "authors": "Altay",
+   "venue": "International Journal of Remote Sensing",
+   "url": "https://doi.org/10.1080/01431161.2026.2763752",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "红树林",
+    "生物量碳损失",
+    "遥感降尺度"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-23",
+   "title": "Spatial patterns and benchmark-year variability of ecosystem carbon productivity and carbon balance in the Shanzai reservoir watershed, southeastern China",
+   "authors": "Gil et al.",
+   "venue": "Frontiers in Forests and Global Change",
+   "url": "https://doi.org/10.3389/ffgc.2026.1936496",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "NEP",
+    "流域碳收支",
+    "中国东南"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-23",
+   "title": "River-mouth coastal wetlands enhance dissolved carbon transformation and CO2 emissions",
+   "authors": "Dristi et al.",
+   "venue": "Estuarine, Coastal and Shelf Science",
+   "url": "https://doi.org/10.1016/j.ecss.2026.110417",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "滨海湿地",
+    "CO2排放",
+    "河口"
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "added": "2026-11-23",
+   "title": "Changes in soil carbon and nitrogen stocks and greenhouse gas emissions following the conversion of a mediterranean forest to cereal cropping and vineyards",
+   "authors": "Cervera-Mata et al.",
+   "venue": "Carbon Balance and Management",
+   "url": "https://doi.org/10.1186/s13021-026-00553-y",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "土地利用变化",
+    "土壤碳",
+    "温室气体"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-23",
+   "title": "CTM-Assisted Generative AI Framework for Satellite-to-Surface Estimation of Ground-Level NO2 and its Extensions to Other Pollutants",
+   "authors": "Kim et al.",
+   "venue": "Atmospheric Environment",
+   "url": "https://doi.org/10.1016/j.atmosenv.2026.122523",
+   "cat": "obs",
+   "core": false,
+   "tags": [
+    "NO2",
+    "卫星反演地面",
+    "CTM"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-23",
+   "title": "Fire-induced soil water repellency, CO2 efflux and organic carbon storage in sub-Saharan African savanna soils: implications for climate-smart land management",
+   "authors": "Anikwe et al.",
+   "venue": "Frontiers in Soil Science",
+   "url": "https://doi.org/10.3389/fsoil.2026.1914983",
+   "cat": "fire",
+   "core": false,
+   "tags": [
+    "萨瓦纳火",
+    "土壤CO2通量",
+    "非洲"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-23",
+   "title": "Carbon flux dynamics and drivers during the initial years after boreal forest clearcutting",
+   "authors": "Islam et al.",
+   "venue": "Ecological Processes",
+   "url": "https://doi.org/10.1186/s13717-026-00768-4",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "北方森林",
+    "涡度通量",
+    "皆伐"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-23",
+   "title": "Methane Leak Monitoring with Unmanned Aerial Vehicles Guided by Quantum-Inspired Recurrent Spiking Neural Networks",
+   "authors": "Prasad et al.",
+   "venue": "IEEE Access",
+   "url": "https://doi.org/10.1109/access.2026.3755982",
+   "cat": "methane",
+   "core": false,
+   "tags": [
+    "甲烷泄漏",
+    "无人机监测"
    ]
   }
  ]
