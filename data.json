@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T06:41:53-05:00",
+ "updated": "2026-11-24T00:08:52-05:00",
  "window_note": "每日自动更新 · 保留近一年",
  "items": [
   {
@@ -40753,6 +40753,139 @@
    "tags": [
     "甲烷泄漏",
     "无人机监测"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "Tidal controls on soil and water CO 2 and CH 4 emissions in an Amazon estuarine floodplain forest",
+   "authors": "Cattanio et al.",
+   "venue": "EGUsphere (preprint)",
+   "url": "https://doi.org/10.5194/egusphere-2026-6918",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "河口洪泛林",
+    "CO2/CH4通量",
+    "亚马孙"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "Isotope evidence for changing methane sources at high northern latitudes",
+   "authors": "Yu et al.",
+   "venue": "Proceedings of the National Academy of Sciences",
+   "url": "https://doi.org/10.1073/pnas.2532176123",
+   "cat": "methane",
+   "core": true,
+   "tags": [
+    "δ13C-CH4",
+    "高纬甲烷源",
+    "同位素约束"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "Two-Step Assimilation of Satellite-Derived Discharge and Water Surface Elevation for River Discharge Reanalysis Despite Model Water Level Biases",
+   "authors": "Kojima et al.",
+   "venue": "ESS Open Archive (preprint)",
+   "url": "https://doi.org/10.22541/essoar.15012626/v1",
+   "cat": "da",
+   "core": false,
+   "tags": [
+    "河流流量同化",
+    "卫星水位",
+    "再分析"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "Quantifying the monthly-scale temporal persistence of high-NO2 months in four sub-Saharan African cities using TROPOMI",
+   "authors": "Ugboma et al.",
+   "venue": "Atmospheric Environment",
+   "url": "https://doi.org/10.1016/j.atmosenv.2026.122525",
+   "cat": "obs",
+   "core": false,
+   "tags": [
+    "TROPOMI",
+    "NO2",
+    "非洲城市"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "Nationwide high-resolution assessment reveals the underestimated carbon sink of Chinese parks",
+   "authors": "Li et al.",
+   "venue": "Nature Communications",
+   "url": "https://doi.org/10.1038/s41467-026-79932-5",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "城市公园碳汇",
+    "中国",
+    "30m核算"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "Toward adaptive yet comparable greenhouse gas measurements across global rice systems",
+   "authors": "Minamikawa et al.",
+   "venue": "Environmental Research Letters",
+   "url": "https://doi.org/10.1088/1748-9326/aec580",
+   "cat": "methane",
+   "core": false,
+   "tags": [
+    "稻田温室气体",
+    "观测规范"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "An Integrated GeoAI Framework for Wildfire Risk Assessment and Atmospheric Transport Analysis",
+   "authors": "Mete et al.",
+   "venue": "ISPRS International Journal of Geo-Information",
+   "url": "https://doi.org/10.3390/ijgi15120519",
+   "cat": "fire",
+   "core": false,
+   "tags": [
+    "野火风险",
+    "大气传输",
+    "土耳其"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-24",
+   "title": "Laboratory Polyvinyl Chloride Combustion and Wildland–Urban Interface Fire Ash Analysis: Chemical Markers and Atmospheric Implications",
+   "authors": "Farley et al.",
+   "venue": "Environmental Science &\nTechnology Letters",
+   "url": "https://doi.org/10.1021/acs.estlett.6c00760",
+   "cat": "fire",
+   "core": false,
+   "tags": [
+    "WUI火灾",
+    "烟尘化学标志物"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-24",
+   "title": "Linking Methane Emission Reductions To Design and Operational Changes at a US Landfill",
+   "authors": "Scarpelli et al.",
+   "venue": "ACS ES&T Air",
+   "url": "https://doi.org/10.1021/acsestair.6c00226",
+   "cat": "methane",
+   "core": false,
+   "tags": [
+    "垃圾填埋场",
+    "甲烷点源",
+    "遥感监测"
    ]
   }
  ]
