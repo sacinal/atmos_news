@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T00:08:52-05:00",
+ "updated": "2026-11-24T06:46:28-05:00",
  "window_note": "每日自动更新 · 保留近一年",
  "items": [
   {
@@ -40886,6 +40886,51 @@
     "垃圾填埋场",
     "甲烷点源",
     "遥感监测"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-24",
+   "title": "Radiometric Calibration for Multi-Satellite HCHO Retrievals: Improving Accuracy, Consistency and Global Daily Coverage",
+   "authors": "Zhao et al.",
+   "venue": "Environmental Pollution",
+   "url": "https://doi.org/10.1016/j.envpol.2026.129601",
+   "cat": "obs",
+   "core": false,
+   "tags": [
+    "HCHO",
+    "多卫星反演",
+    "辐射定标"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-24",
+   "title": "Global intercomparison of ocean-based geochemical carbon dioxide removal efficiencies",
+   "authors": "Zhou et al.",
+   "venue": "Nature Communications",
+   "url": "https://doi.org/10.1038/s41467-026-78856-4",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "海洋CDR",
+    "海洋碳汇",
+    "模式比较"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "Drivers and dynamics of soil carbon dioxide emissions in the Bolivian Andean Highlands",
+   "authors": "Alavi-Murillo et al.",
+   "venue": "Soil Advances",
+   "url": "https://doi.org/10.1016/j.soilad.2026.100146",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "土壤CO2排放",
+    "安第斯高原",
+    "驱动因子"
    ]
   }
  ]
