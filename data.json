@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:46:28-05:00",
+ "updated": "2026-11-25T06:43:48-05:00",
  "window_note": "每日自动更新 · 保留近一年",
  "items": [
   {
@@ -40382,246 +40382,6 @@
    ]
   },
   {
-   "date": "2025-11-24",
-   "added": "2025-11-24",
-   "title": "Trend of Air‐Sea CO2 Flux in the Frontal Zone of the East China Sea Investigated by a Remote‐Sensing Data Assimilation Model",
-   "authors": "Xuan et al.",
-   "venue": "Journal of Geophysical Research: Oceans",
-   "url": "https://doi.org/10.1029/2025jc022423",
-   "cat": "carbon",
-   "core": false,
-   "tags": [
-    "海气CO2通量",
-    "遥感同化"
-   ]
-  },
-  {
-   "date": "2025-11-24",
-   "added": "2025-11-24",
-   "title": "The transport history of African biomass burning aerosols arriving in the remote Southeast Atlantic and their impacts on cloud properties",
-   "authors": "Wu et al.",
-   "venue": "Atmospheric Chemistry and Physics",
-   "url": "https://doi.org/10.5194/acp-25-16589-2025",
-   "cat": "fire",
-   "core": false,
-   "tags": [
-    "生物质燃烧气溶胶",
-    "非洲",
-    "云"
-   ]
-  },
-  {
-   "date": "2025-11-24",
-   "added": "2025-11-24",
-   "title": "Overestimated natural biological nitrogen fixation translates to an exaggerated CO2 fertilization effect in Earth system models",
-   "authors": "Kou-Giesbrecht et al.",
-   "venue": "Proceedings of the National Academy of Sciences",
-   "url": "https://doi.org/10.1073/pnas.2514628122",
-   "cat": "carbon",
-   "core": false,
-   "tags": [
-    "生物固氮",
-    "CO2施肥",
-    "地球系统模式"
-   ]
-  },
-  {
-   "date": "2025-11-24",
-   "added": "2025-11-24",
-   "title": "On process-oriented conditional targeted covariance inflation (TCI) for 3D-volume radar data assimilation",
-   "authors": "Vobig et al.",
-   "venue": "Nonlinear Processes in Geophysics",
-   "url": "https://doi.org/10.5194/npg-32-471-2025",
-   "cat": "da",
-   "core": false,
-   "tags": [
-    "雷达同化",
-    "协方差膨胀"
-   ]
-  },
-  {
-   "date": "2025-11-24",
-   "added": "2025-11-24",
-   "title": "Nitrogen limitation reduces CO₂ emissions from land use change primarily by decreasing CO₂ and climate interactions",
-   "authors": "Zou et al.",
-   "venue": "Agricultural and Forest Meteorology",
-   "url": "https://doi.org/10.1016/j.agrformet.2025.110940",
-   "cat": "carbon",
-   "core": false,
-   "tags": [
-    "氮限制",
-    "土地利用变化"
-   ]
-  },
-  {
-   "date": "2025-11-24",
-   "added": "2025-11-24",
-   "title": "Measurement report: Extreme heat and wildfire emissions enhance volatile organic compounds in a temperate forest",
-   "authors": "Salvador et al.",
-   "venue": "Atmospheric Chemistry and Physics",
-   "url": "https://doi.org/10.5194/acp-25-16611-2025",
-   "cat": "fire",
-   "core": false,
-   "tags": [
-    "野火VOC",
-    "极端高温"
-   ]
-  },
-  {
-   "date": "2025-11-24",
-   "added": "2025-11-24",
-   "title": "Measurement Report: Methane and NOx emissions from natural gas cooking stoves, the case of Chile and Colombia",
-   "authors": "Morales-Betancourt et al.",
-   "venue": "EGUsphere (preprint)",
-   "url": "https://doi.org/10.5194/egusphere-2025-3457",
-   "cat": "methane",
-   "core": false,
-   "tags": [
-    "天然气灶",
-    "甲烷NOx排放"
-   ]
-  },
-  {
-   "date": "2025-11-24",
-   "added": "2025-11-24",
-   "title": "Increasing diurnal and seasonal amplitude of atmospheric methane mole fraction in Central Siberia between 2010–2021",
-   "authors": "Tran et al.",
-   "venue": "Atmospheric Chemistry and Physics",
-   "url": "https://doi.org/10.5194/acp-25-16553-2025",
-   "cat": "methane",
-   "core": false,
-   "tags": [
-    "西伯利亚",
-    "甲烷季节变化"
-   ]
-  },
-  {
-   "date": "2025-11-24",
-   "added": "2025-11-24",
-   "title": "Fine scale estimation of urban biogenic CO₂ fluxes using measurements and multiple versions of Vegetation Photosynthesis and Respiration models",
-   "authors": "Li et al.",
-   "venue": "ESS Open Archive (preprint)",
-   "url": "https://doi.org/10.22541/essoar.176400779.92817736/v1",
-   "cat": "carbon",
-   "core": false,
-   "tags": [
-    "城市生物源CO2",
-    "VPRM"
-   ]
-  },
-  {
-   "date": "2025-11-24",
-   "added": "2025-11-24",
-   "title": "Extreme drought–accelerated dissolved carbon metabolism triggers pulsed CO2 outgassing in karst lakes",
-   "authors": "Ni et al.",
-   "venue": "EGUsphere (preprint)",
-   "url": "https://doi.org/10.5194/egusphere-2025-4284",
-   "cat": "carbon",
-   "core": false,
-   "tags": [
-    "喀斯特湖",
-    "CO2释放"
-   ]
-  },
-  {
-   "date": "2025-11-24",
-   "added": "2025-11-24",
-   "title": "Development and Testing of Ensemble-Variational Data Assimilation Capabilities for Radar Data within JEDI coupled with FV3-LAM Model",
-   "authors": "Park et al.",
-   "venue": "EGUsphere (preprint)",
-   "url": "https://doi.org/10.5194/egusphere-2025-5411",
-   "cat": "da",
-   "core": false,
-   "tags": [
-    "雷达同化",
-    "JEDI"
-   ]
-  },
-  {
-   "date": "2025-11-24",
-   "added": "2025-11-24",
-   "title": "Data Assimilation of Geostationary Satellite Observations of nitrogen dioxide (NO2) in a Regional Air Quality Model - Part 1: Theoretical Experiments with Ensemble Transfer Kalman Filter Technique",
-   "authors": "Li et al.",
-   "venue": "ESS Open Archive (preprint)",
-   "url": "https://doi.org/10.22541/essoar.176400850.07711017/v1",
-   "cat": "da",
-   "core": false,
-   "tags": [
-    "NO2同化",
-    "集合卡尔曼"
-   ]
-  },
-  {
-   "date": "2025-11-24",
-   "added": "2025-11-24",
-   "title": "Data Assimilation Into a Machine Learning‐Based Emulator of a Global MHD Simulation for Analyzing the Polar Ionosphere",
-   "authors": "Nakano et al.",
-   "venue": "Space Weather",
-   "url": "https://doi.org/10.1029/2025sw004488",
-   "cat": "da",
-   "core": false,
-   "tags": [
-    "电离层同化",
-    "MHD"
-   ]
-  },
-  {
-   "date": "2025-11-24",
-   "added": "2025-11-24",
-   "title": "Assessment of observation errors in AWS data assimilation: Application to a thunderstorm gale event forecast",
-   "authors": "Xu et al.",
-   "venue": "Atmospheric Research",
-   "url": "https://doi.org/10.1016/j.atmosres.2025.108653",
-   "cat": "da",
-   "core": false,
-   "tags": [
-    "AWS同化",
-    "观测误差"
-   ]
-  },
-  {
-   "date": "2025-11-24",
-   "added": "2025-11-24",
-   "title": "Added Value of Assimilating FY-4B AGRI Water Vapor Radiances on Analyses and Forecasts for “23 · 7” Heavy Rainfall",
-   "authors": "Zhong et al.",
-   "venue": "Remote Sensing",
-   "url": "https://doi.org/10.3390/rs17233808",
-   "cat": "da",
-   "core": false,
-   "tags": [
-    "FY-4B辐射率同化",
-    "暴雨"
-   ]
-  },
-  {
-   "date": "2025-11-24",
-   "added": "2025-11-24",
-   "title": "A comprehensive review of computer vision for reservoir modelling and data assimilation",
-   "authors": "Kazemi",
-   "venue": "Discover Applied Sciences",
-   "url": "https://doi.org/10.1007/s42452-025-07743-2",
-   "cat": "da",
-   "core": false,
-   "tags": [
-    "储层建模",
-    "同化综述"
-   ]
-  },
-  {
-   "date": "2025-11-24",
-   "added": "2025-11-24",
-   "title": "A One-dimensional Ecosystem Model Accurately Predicts Multiple Pathways of Methane Emissions with Constrained Uncertainty",
-   "authors": "Kurucz et al.",
-   "venue": "ESS Open Archive (preprint)",
-   "url": "https://doi.org/10.22541/essoar.176401846.61827018/v1",
-   "cat": "methane",
-   "core": false,
-   "tags": [
-    "甲烷排放",
-    "生态系统模型"
-   ]
-  },
-  {
    "date": "2026-11-20",
    "added": "2026-11-23",
    "title": "Contrasting Fire‐Driven Erosion Processes Mobilise Distinct Organic Carbon Pools in Forest Landscapes",
@@ -40931,6 +40691,126 @@
     "土壤CO2排放",
     "安第斯高原",
     "驱动因子"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-25",
+   "title": "Mapping and Monitoring Atmospheric Carbon Dioxide From NASA's OCO ‐2 Satellite",
+   "authors": "Cressie et al.",
+   "venue": "Environmetrics",
+   "url": "https://doi.org/10.1002/env.70173",
+   "cat": "obs",
+   "core": false,
+   "tags": [
+    "OCO-2",
+    "XCO2制图",
+    "时空统计"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "Cascading effects of landscape pattern changes on river water quality and N2O emissions: New insights for integrated land-water-air management in watersheds",
+   "authors": "Xu et al.",
+   "venue": "Water Research",
+   "url": "https://doi.org/10.1016/j.watres.2026.127418",
+   "cat": "other",
+   "core": false,
+   "tags": [
+    "N2O排放",
+    "流域",
+    "景观格局"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "Statistical Downscaling of CMAQ Data Assimilation PM2.5 Fields Using a Graph-Based Model Over South Korea",
+   "authors": "Lee et al.",
+   "venue": "Aerosol and Air Quality Research",
+   "url": "https://doi.org/10.1007/s44408-026-00182-7",
+   "cat": "da",
+   "core": false,
+   "tags": [
+    "CMAQ同化",
+    "PM2.5",
+    "统计降尺度"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-25",
+   "title": "Review article: Synthesizing data assimilation for snow, glaciers, and permafrost",
+   "authors": "Mazzolini et al.",
+   "venue": "EGUsphere (preprint)",
+   "url": "https://doi.org/10.5194/egusphere-2026-6014",
+   "cat": "da",
+   "core": false,
+   "tags": [
+    "冰冻圈同化",
+    "雪/冰川/冻土",
+    "综述"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-25",
+   "title": "Burn Severity Shapes Post‐Fire Methane Uptake in European Boreal Forest Soils",
+   "authors": "Kokkonen et al.",
+   "venue": "Global Biogeochemical Cycles",
+   "url": "https://doi.org/10.1029/2026gb009125",
+   "cat": "methane",
+   "core": false,
+   "tags": [
+    "火后CH4吸收",
+    "北方森林土壤",
+    "燃烧强度"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-25",
+   "title": "Evaluating the Ability of Data Assimilation to Improve Rossby Wave Representation in the Venus Atmosphere Using an Observing System Simulation Experiment",
+   "authors": "Komori et al.",
+   "venue": "Journal of Geophysical Research: Planets",
+   "url": "https://doi.org/10.1029/2026je009838",
+   "cat": "da",
+   "core": false,
+   "tags": [
+    "金星大气",
+    "OSSE",
+    "Rossby波"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-25",
+   "title": "Ground-to-Canopy Tree Methane Fluxes: Implications for Scaling and Forest Budgets",
+   "authors": "Gewirtzman et al.",
+   "venue": "ESS Open Archive (preprint)",
+   "url": "https://doi.org/10.22541/essoar.15012724/v1",
+   "cat": "methane",
+   "core": false,
+   "tags": [
+    "树木CH4通量",
+    "森林甲烷收支",
+    "冠层尺度"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-25",
+   "title": "Artificial Intelligence for Methane Detection: From Continuous Monitoring to Verified Mitigation",
+   "authors": "Mateo-García et al.",
+   "venue": "Environmental Science & Technology",
+   "url": "https://doi.org/10.1021/acs.est.6c06060",
+   "cat": "methane",
+   "core": false,
+   "tags": [
+    "甲烷检测",
+    "人工智能",
+    "点源监测"
    ]
   }
  ]
