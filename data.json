@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T06:43:48-05:00",
- "window_note": "每日自动更新 · 保留近一年",
+ "updated": "2026-11-26T06:44:04-05:00",
+ "window_note": "每日自动更新 · 保留全部历史",
  "items": [
   {
    "date": "2026-11-23",
@@ -40811,6 +40811,155 @@
     "甲烷检测",
     "人工智能",
     "点源监测"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-26",
+   "title": "Spatiotemporal Patterns of XCO2 in Mainland China: A Machine Learning Approach with Interpretable Environmental Drivers",
+   "authors": "Li et al.",
+   "venue": "Atmosphere",
+   "url": "https://doi.org/10.3390/atmos17121166",
+   "cat": "obs",
+   "core": false,
+   "tags": [
+    "XCO2",
+    "机器学习",
+    "中国"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-26",
+   "title": "Gross primary productivity of forest ecosystems in a subtropical city and its decadal climatic and environmental drivers",
+   "authors": "Lam et al.",
+   "venue": "Biogeosciences",
+   "url": "https://doi.org/10.5194/bg-23-8599-2026",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "GPP",
+    "城市森林",
+    "香港"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-26",
+   "title": "Assimilating SAR High‐Spatial‐Resolution Wind Data to Improve Tropical Cyclone Forecasts",
+   "authors": "Gong et al.",
+   "venue": "Journal of Geophysical Research: Atmospheres",
+   "url": "https://doi.org/10.1029/2026jd048125",
+   "cat": "da",
+   "core": false,
+   "tags": [
+    "SAR风场同化",
+    "台风预报"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-26",
+   "title": "Temperature-dependent kinetic isotope effects in methane reactions with OH and Cl reshape atmospheric sink fractionation",
+   "authors": "Mikkelsen et al.",
+   "venue": "Proceedings of the National Academy of Sciences",
+   "url": "https://doi.org/10.1073/pnas.2520978123",
+   "cat": "methane",
+   "core": false,
+   "tags": [
+    "甲烷汇",
+    "同位素分馏",
+    "OH/Cl"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-26",
+   "title": "Recent Trends in Atmospheric Methane Growth Rates over Korea Revealed by Long-Term In-Situ Observations, Satellite and Transport Modeling",
+   "authors": "Kenea et al.",
+   "venue": "Remote Sensing",
+   "url": "https://doi.org/10.3390/rs18234058",
+   "cat": "methane",
+   "core": false,
+   "tags": [
+    "甲烷增长率",
+    "韩国",
+    "传输模拟"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-26",
+   "title": "Modelling integrated rewilding and fire management strategies to enhance long-term carbon dynamics under climate change",
+   "authors": "Spadoni et al.",
+   "venue": "Journal of Environmental Management",
+   "url": "https://doi.org/10.1016/j.jenvman.2026.131434",
+   "cat": "fire",
+   "core": false,
+   "tags": [
+    "火管理",
+    "碳动态",
+    "情景模拟"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-26",
+   "title": "Satellite mapping revealing weakened CO2 uptake on the western Antarctic Peninsula shelf due to the climate variation",
+   "authors": "Lin et al.",
+   "venue": "Acta Oceanologica Sinica",
+   "url": "https://doi.org/10.1007/s13131-026-2697-z",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "海洋碳汇",
+    "南极半岛",
+    "卫星制图"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "added": "2026-11-26",
+   "title": "Coastal Wetland Restoration and Greenhouse Gas Pathways: A Global Meta‐Analysis",
+   "authors": "Misteli et al.",
+   "venue": "Global Change Biology",
+   "url": "https://doi.org/10.1111/gcb.71205",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "滨海湿地",
+    "温室气体",
+    "Meta分析"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "added": "2026-11-26",
+   "title": "Knowledge-distilled deep learning for efficient satellite-based CO2 plume segmentation with independent emission assessment",
+   "authors": "Verma et al.",
+   "venue": "Remote Sensing Applications: Society and Environment",
+   "url": "https://doi.org/10.1016/j.rsase.2026.102355",
+   "cat": "obs",
+   "core": false,
+   "tags": [
+    "CO2烟羽",
+    "深度学习",
+    "点源排放"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "added": "2026-11-26",
+   "title": "Inverse modeling of soil water and heat transport using an iterative ensemble smoother",
+   "authors": "Di Ciacca et al.",
+   "venue": "Vadose Zone Journal",
+   "url": "https://doi.org/10.1002/vzj2.70166",
+   "cat": "da",
+   "core": false,
+   "tags": [
+    "集合平滑",
+    "土壤水热",
+    "参数反演"
    ]
   }
  ]
