@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T06:44:04-05:00",
+ "updated": "2026-11-27T06:42:09-05:00",
  "window_note": "每日自动更新 · 保留全部历史",
  "items": [
   {
@@ -40960,6 +40960,156 @@
     "集合平滑",
     "土壤水热",
     "参数反演"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "title": "Atmospheric CH 4 and δ 13 C-CH4 trends simulated with the chemistry-climate model EMAC (version 2.55.2), Part I: Description and evaluation of the methane-flux-driven setup",
+   "authors": "Nickl et al.",
+   "venue": "EGUsphere (preprint)",
+   "url": "https://doi.org/10.5194/egusphere-2026-7081",
+   "cat": "methane",
+   "core": false,
+   "tags": [
+    "甲烷同位素",
+    "EMAC",
+    "化学气候模式"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "title": "Process‐Based Modeling Approach for Simulating Rice Paddy Methane Fluxes: Model Evolution, Performance, and Way Forward",
+   "authors": "Mehla et al.",
+   "venue": "Journal of Advances in Modeling Earth Systems",
+   "url": "https://doi.org/10.1029/2026ms005822",
+   "cat": "methane",
+   "core": false,
+   "tags": [
+    "稻田甲烷",
+    "过程模型",
+    "综述"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "title": "Overview of Global Land Data Assimilation System Datasets and Ongoing Development",
+   "authors": "Rodell et al.",
+   "venue": "Journal of Hydrometeorology",
+   "url": "https://doi.org/10.1175/jhm-d-26-0052.1",
+   "cat": "da",
+   "core": false,
+   "tags": [
+    "GLDAS",
+    "陆面同化",
+    "数据集"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "title": "Satellite Quantification of Methane Emissions from Individual Countries in Southeast Asia: Roles of Dry and Wet Seasons",
+   "authors": "Xu et al.",
+   "venue": "ACS ES&T Air",
+   "url": "https://doi.org/10.1021/acsestair.6c00300",
+   "cat": "methane",
+   "core": true,
+   "tags": [
+    "甲烷排放",
+    "东南亚",
+    "卫星反演"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "title": "Onboard Lidar Differential Absorption Systems for Greenhouse Gas Sensing: A Review",
+   "authors": "Romanovskii et al.",
+   "venue": "Remote Sensing",
+   "url": "https://doi.org/10.3390/rs18234086",
+   "cat": "obs",
+   "core": false,
+   "tags": [
+    "差分吸收激光雷达",
+    "温室气体",
+    "综述"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "title": "Fire Emissions from Eucalypt Litter Show Strong Sensitivity to Fuel Moisture Content",
+   "authors": "Roy et al.",
+   "venue": "Atmosphere",
+   "url": "https://doi.org/10.3390/atmos17121170",
+   "cat": "fire",
+   "core": false,
+   "tags": [
+    "排放因子",
+    "桉树凋落物",
+    "燃料含水量"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "title": "Investigating Microphysics Scheme Parameter Estimation Using Data Assimilation in an Idealized Squall-line Experiment",
+   "authors": "Kong et al.",
+   "venue": "SOLA",
+   "url": "https://doi.org/10.1007/s44393-026-00050-y",
+   "cat": "da",
+   "core": false,
+   "tags": [
+    "参数估计",
+    "LETKF",
+    "云微物理"
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "added": "2026-11-27",
+   "title": "Anoxic Bottom Waters of Lakes are Global Hotspots of Methane and Carbon Dioxide Accumulation",
+   "authors": "Lewis et al.",
+   "venue": "Global Biogeochemical Cycles",
+   "url": "https://doi.org/10.1029/2026gb009106",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "湖泊",
+    "CH4/CO2",
+    "全球热点"
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "added": "2026-11-27",
+   "title": "Evolutionary Particle Filter Data Assimilation With a Complex Process‐Based Hydrologic Model for Enhancing Streamflow Prediction",
+   "authors": "Rezaei Aderyani et al.",
+   "venue": "Water Resources Research",
+   "url": "https://doi.org/10.1029/2026wr043970",
+   "cat": "da",
+   "core": false,
+   "tags": [
+    "粒子滤波",
+    "水文模型",
+    "径流预报"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "title": "Uncertainty Estimation for LEO Satellite‐Derived Thermospheric Neutral Density Using Data Assimilation Diagnostics",
+   "authors": "Fernandez‐Gomez et al.",
+   "venue": "Space Weather",
+   "url": "https://doi.org/10.1029/2026sw005163",
+   "cat": "da",
+   "core": false,
+   "tags": [
+    "热层密度",
+    "同化诊断",
+    "不确定性"
    ]
   }
  ]
