@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T06:42:09-05:00",
+ "updated": "2026-11-28T06:43:15-05:00",
  "window_note": "每日自动更新 · 保留全部历史",
  "items": [
   {
@@ -41110,6 +41110,125 @@
     "热层密度",
     "同化诊断",
     "不确定性"
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "added": "2026-11-28",
+   "title": "Monthly 0.1° near-surface CO₂ concentrations over China from 2018 to 2024 reconstructed with machine learning",
+   "authors": "Li et al.",
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "url": "https://doi.org/10.5281/zenodo.24580466",
+   "cat": "obs",
+   "core": false,
+   "tags": [
+    "近地面CO2",
+    "机器学习",
+    "中国"
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "added": "2026-11-28",
+   "title": "Can time-series decomposition and fluctuation filtering reveal short-term NO2 episodes? Evaluating TROPOMI against surface observations and the role of terrain complexity in southwestern Europe",
+   "authors": "Campos et al.",
+   "venue": "Atmospheric Environment",
+   "url": "https://doi.org/10.1016/j.atmosenv.2026.122533",
+   "cat": "obs",
+   "core": false,
+   "tags": [
+    "TROPOMI",
+    "NO2",
+    "地面验证"
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "added": "2026-11-28",
+   "title": "ENSO-Modulated Fire Activity and Transboundary PM2.5 Pollution in Mainland Southeast Asia",
+   "authors": "Khine et al.",
+   "venue": "Atmospheric Environment",
+   "url": "https://doi.org/10.1016/j.atmosenv.2026.122532",
+   "cat": "fire",
+   "core": false,
+   "tags": [
+    "ENSO",
+    "东南亚火",
+    "跨境PM2.5"
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "added": "2026-11-28",
+   "title": "Anthropogenic impacts shift carbon dioxide emissions from Chinese rivers from historical reductions to future increases",
+   "authors": "Zhou et al.",
+   "venue": "Communications Earth & Environment",
+   "url": "https://doi.org/10.1038/s43247-026-04219-y",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "河流CO2排放",
+    "中国",
+    "情景预测"
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "added": "2026-11-28",
+   "title": "Generation of A Global, Daily, Spatiotemporally-Seamless GPP Dataset Based on Solar-Induced Chlorophyll Fluorescence",
+   "authors": "Li et al.",
+   "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+   "url": "https://doi.org/10.1109/tgrs.2026.3757838",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "GPP数据集",
+    "SIF",
+    "全球逐日"
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "added": "2026-11-28",
+   "title": "1.57 μm Active Laser Heterodyne Spectrometer for Ambient CO2 Measurement",
+   "authors": "Gan et al.",
+   "venue": "Sensors and Actuators B: Chemical",
+   "url": "https://doi.org/10.1016/j.snb.2026.141324",
+   "cat": "obs",
+   "core": false,
+   "tags": [
+    "激光外差光谱",
+    "CO2观测"
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "added": "2026-11-28",
+   "title": "Carbon Flux Responses to Hydroclimatic Variability and Vegetation Dynamics in the Yarlung Tsangpo River Basin: Insights from SWAT-C Simulations and Sensitivity Experiments",
+   "authors": "Chen et al.",
+   "venue": "Forests",
+   "url": "https://doi.org/10.3390/f17121445",
+   "cat": "carbon",
+   "core": false,
+   "tags": [
+    "碳通量",
+    "SWAT-C",
+    "雅鲁藏布江"
+   ]
+  },
+  {
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "title": "A streamfunction focused continuous data assimilation of a finite element method of a regularized barotropic vorticity model of geophysical flow",
+   "authors": "Diegel et al.",
+   "venue": "Computers & Mathematics with Applications",
+   "url": "https://doi.org/10.1016/j.camwa.2026.11.017",
+   "cat": "da",
+   "core": false,
+   "tags": [
+    "连续同化",
+    "有限元",
+    "正压涡度"
    ]
   }
  ]
